@@ -1,0 +1,2757 @@
+1000,Bruxelles,4.351697,50.84656,Bruxelles 
+1020,Laeken,4.3487134,50.88339,Bruxelles 
+1030,Schaerbeek,4.3737121,50.8676,Bruxelles 
+1040,Etterbeek,4.3895104,50.83685,Bruxelles 
+1050,Ixelles,4.3815707,50.82229,Bruxelles 
+1060,Saint-Gilles,4.345668,50.82674,Bruxelles 
+1070,Anderlecht,4.3123401,50.83814,Bruxelles 
+1080,Molenbeek-Saint-Jean,4.3227779,50.85436,Bruxelles 
+1081,Koekelberg,4.3257084,50.86226,Bruxelles 
+1082,Berchem-Sainte-Agathe,4.292702,50.86398,Bruxelles 
+1083,Ganshoren,4.3175103,50.87124,Bruxelles 
+1090,Jette,4.3260903,50.87776,Bruxelles 
+1120,Neder-Over-Heembeek,4.390488868,50.8978,Bruxelles 
+1130,Haren,4.412570873,50.89197,Bruxelles 
+1140,Evere,4.4021602,50.87045,Bruxelles 
+1150,Woluwe-Saint-Pierre,4.4432967,50.82924,Bruxelles 
+1160,Auderghem,4.4331389,50.81566,Bruxelles 
+1170,Watermael-Boitsfort,4.4158177,50.79939,Bruxelles 
+1180,Uccle,4.3372348,50.80182,Bruxelles 
+1190,Forest,4.3177512,50.80914,Bruxelles 
+1200,Woluwe-Saint-Lambert,4.4284842,50.84669,Bruxelles 
+1210,Saint-Josse-Ten-Noode,4.3723364,50.85307,Bruxelles 
+1300,Limal,4.5738899,50.69301,Brabant Wallon
+1300,Wavre,4.607744,50.71642,Brabant Wallon
+1301,Bierges,4.5894025,50.71118,Brabant Wallon
+1310,La Hulpe,4.4796542,50.73151,Brabant Wallon
+1315,Glimes,4.8384018,50.67999,Brabant Wallon
+1315,Incourt,4.798944,50.6918,Brabant Wallon
+1315,Opprebais,4.7957745,50.68182,Brabant Wallon
+1315,Piètrebais,4.7433685,50.73111,Brabant Wallon
+1315,Roux-Miroir,4.7848246,50.70851,Brabant Wallon
+1320,Beauvechain,4.7716774,50.78103,Brabant Wallon
+1320,Hamme-Mille,4.7205562,50.78191,Brabant Wallon
+1320,L'ecluse,4.8320079,50.77175,Brabant Wallon
+1320,Nodebais,4.733891,50.77253,Brabant Wallon
+1320,Tourinnes-La-Grosse,4.7472104,50.77777,Brabant Wallon
+1325,Bonlez,4.6896145,50.70214,Brabant Wallon
+1325,Chaumont-Gistoux,4.6974182,50.68398,Brabant Wallon
+1325,Corroy-Le-Grand,4.6747213,50.66171,Brabant Wallon
+1325,Dion-Valmont,4.6614812,50.71588,Brabant Wallon
+1325,Longueville,4.7392389,50.70244,Brabant Wallon
+1330,Rixensart,4.527289689,50.71335,Brabant Wallon
+1331,Rosières,4.546311302,50.73713,Brabant Wallon
+1332,Genval,4.497138934,50.72074,Brabant Wallon
+1340,Ottignies,4.5690502,50.66636,Brabant Wallon
+1340,Ottignies-Louvain-La-Neuve,4.58049377,50.67267,Brabant Wallon
+1341,Céroux-Mousty,4.529174266,50.66257,Brabant Wallon
+1342,Limelette,4.554902276,50.68516,Brabant Wallon
+1348,Louvain-La-Neuve,4.614156732,50.67417,Brabant Wallon
+1350,Enines,4.9260633,50.69432,Brabant Wallon
+1350,Folx-Les-Caves,4.9370984,50.66107,Brabant Wallon
+1350,Jandrain-Jandrenouille,4.9792652,50.67401,Brabant Wallon
+1350,Jauche,4.9552091,50.68161,Brabant Wallon
+1350,Marilles,4.9529173,50.70729,Brabant Wallon
+1350,Noduwez,4.9640083,50.72932,Brabant Wallon
+1350,Orp-Jauche,4.9889872,50.7001,Brabant Wallon
+1350,Orp-Le-Grand,4.9912852,50.70349,Brabant Wallon
+1357,Hélécine,4.9822395,50.7514,Brabant Wallon
+1357,Linsmeau,5.0030144,50.73225,Brabant Wallon
+1357,Neerheylissem,4.9890154,50.75677,Brabant Wallon
+1357,Opheylissem,4.9780806,50.74784,Brabant Wallon
+1360,Malèves-Sainte-Marie-Wastines,4.7801225,50.65647,Brabant Wallon
+1360,Orbais,4.7631073,50.63763,Brabant Wallon
+1360,Perwez,4.8134719,50.62345,Brabant Wallon
+1360,Thorembais-Les-Béguines,4.8183242,50.65841,Brabant Wallon
+1360,Thorembais-Saint-Trond,4.7839333,50.63576,Brabant Wallon
+1367,Autre-Eglise,4.9249295,50.66316,Brabant Wallon
+1367,Bomal,4.8735246,50.66814,Brabant Wallon
+1367,Gérompont,4.8807352,50.64675,Brabant Wallon
+1367,Grand-Rosière-Hottomont,4.8674622,50.63161,Brabant Wallon
+1367,Huppaye,4.8921703,50.69276,Brabant Wallon
+1367,Mont-Saint-André,4.8635811,50.65503,Brabant Wallon
+1367,Ramillies,4.9148994,50.63669,Brabant Wallon
+1370,Dongelberg,4.8203333,50.70163,Brabant Wallon
+1370,Jauchelette,4.8435069,50.68661,Brabant Wallon
+1370,Jodoigne,4.8709616,50.72182,Brabant Wallon
+1370,Jodoigne-Souveraine,4.8405644,50.70812,Brabant Wallon
+1370,Lathuy,4.824622,50.72301,Brabant Wallon
+1370,Mélin,4.8286208,50.74009,Brabant Wallon
+1370,Piétrain,4.9175477,50.7255,Brabant Wallon
+1370,Saint-Jean-Geest,4.8957659,50.73972,Brabant Wallon
+1370,Saint-Remy-Geest,4.8583707,50.74711,Brabant Wallon
+1370,Zétrud-Lumay,4.8838518,50.75921,Brabant Wallon
+1380,Couture-Saint-Germain,4.482569151,50.66281,Brabant Wallon
+1380,Lasne,4.4844157,50.686,Brabant Wallon
+1380,Lasne-Chapelle-Saint-Lambert,4.5004885,50.69275,Brabant Wallon
+1380,Maransart,4.455994249,50.65613,Brabant Wallon
+1380,Ohain,4.450553416,50.69511,Brabant Wallon
+1380,Plancenoit,4.421212418,50.66255,Brabant Wallon
+1390,Archennes,4.6702286,50.75161,Brabant Wallon
+1390,Biez,4.7033973,50.72671,Brabant Wallon
+1390,Bossut-Gottechain,4.6990692,50.76162,Brabant Wallon
+1390,Grez-Doiceau,4.6962324,50.73862,Brabant Wallon
+1390,Nethen,4.673655235,50.78383,Brabant Wallon
+1400,Monstreux,4.286021634,50.59316,Brabant Wallon
+1400,Nivelles,4.331909176,50.58916,Brabant Wallon
+1401,Baulers,4.358648257,50.61725,Brabant Wallon
+1402,Thines,4.382595409,50.58679,Brabant Wallon
+1404,Bornival,4.264926221,50.60487,Brabant Wallon
+1410,Waterloo,4.3978047,50.71736,Brabant Wallon
+1420,Braine-L'alleud,4.354814544,50.69409,Brabant Wallon
+1421,Ophain-Bois-Seigneur-Isaac,4.350790235,50.6563,Brabant Wallon
+1428,Lillois-Witterzée,4.3670582,50.64837,Brabant Wallon
+1430,Bierghes,4.122725798,50.69658,Brabant Wallon
+1430,Quenast,4.16270214,50.67191,Brabant Wallon
+1430,Rebecq,4.1355466,50.66459,Brabant Wallon
+1430,Rebecq-Rognon,4.13502755,50.67356,Brabant Wallon
+1435,Corbais,4.640828606,50.64917,Brabant Wallon
+1435,Hévillers,4.6167772,50.62209,Brabant Wallon
+1435,Mont-Saint-Guibert,4.6127019,50.63656,Brabant Wallon
+1440,Braine-Le-Château,4.266669073,50.68088,Brabant Wallon
+1440,Wauthier-Braine,4.313303634,50.68083,Brabant Wallon
+1450,Chastre,4.636678,50.60808,Brabant Wallon
+1450,Chastre-Villeroux-Blanmont,4.637794111,50.61063,Brabant Wallon
+1450,Cortil-Noirmont,4.6406799,50.59081,Brabant Wallon
+1450,Gentinnes,4.592722101,50.5794,Brabant Wallon
+1450,Saint-Géry,4.620284842,50.57661,Brabant Wallon
+1457,Nil-Saint-Vincent-Saint-Martin,4.6743285,50.64071,Brabant Wallon
+1457,Tourinnes-Saint-Lambert,4.7220185,50.63955,Brabant Wallon
+1457,Walhain,4.6952724,50.61828,Brabant Wallon
+1457,Walhain-Saint-Paul,4.6952241,50.61678,Brabant Wallon
+1460,Ittre,4.261167564,50.64634,Brabant Wallon
+1460,Virginal-Samme,4.219975944,50.64134,Brabant Wallon
+1461,Haut-Ittre,4.296471951,50.6488,Brabant Wallon
+1470,Baisy-Thy,4.488077819,50.60402,Brabant Wallon
+1470,Bousval,4.519203414,50.63205,Brabant Wallon
+1470,Genappe,4.447945985,50.60801,Brabant Wallon
+1471,Loupoigne,4.431964496,50.59292,Brabant Wallon
+1472,Vieux-Genappe,4.401503098,50.62902,Brabant Wallon
+1473,Glabais,4.446488694,50.63692,Brabant Wallon
+1474,Ways,4.472942947,50.62699,Brabant Wallon
+1476,Houtain-Le-Val,4.411033952,50.57629,Brabant Wallon
+1480,Clabecq,4.2214131,50.68937,Brabant Wallon
+1480,Oisquercq,4.2167874,50.67007,Brabant Wallon
+1480,Saintes,4.160061286,50.70737,Brabant Wallon
+1480,Tubize,4.204696,50.69302,Brabant Wallon
+1490,Court-Saint-Etienne,4.5685766,50.64432,Brabant Wallon
+1495,Marbais,4.538097597,50.55048,Brabant Wallon
+1495,Mellery,4.5691118,50.58175,Brabant Wallon
+1495,Sart-Dames-Avelines,4.489554887,50.55417,Brabant Wallon
+1495,Tilly,4.552218722,50.5764,Brabant Wallon
+1495,Villers-La-Ville,4.516035801,50.56403,Brabant Wallon
+1500,Halle,4.2374349,50.73605,Brabant Flamand
+1501,Buizingen,4.260508082,50.73793,Brabant Flamand
+1502,Lembeek,4.214343059,50.7093,Brabant Flamand
+1540,Herfelingen,4.0974868,50.74773,Brabant Flamand
+1540,Herne,4.026011566,50.7233,Brabant Flamand
+1541,Sint-Pieters-Kapelle,3.998576672,50.70722,Brabant Flamand
+1547,Biévène,3.943147,50.71645,Brabant Flamand
+1560,Hoeilaart,4.474407,50.76748,Brabant Flamand
+1570,Galmaarden,3.9709983,50.75272,Brabant Flamand
+1570,Tollembeek,4.004789341,50.74309,Brabant Flamand
+1570,Vollezele,4.0247359,50.76088,Brabant Flamand
+1600,Oudenaken,4.1958992,50.78049,Brabant Flamand
+1600,Sint-Laureins-Berchem,4.1993838,50.78773,Brabant Flamand
+1600,Sint-Pieters-Leeuw,4.245218617,50.78118,Brabant Flamand
+1601,Ruisbroek,4.29861047,50.78486,Brabant Flamand
+1602,Vlezenbeek,4.236041072,50.80559,Brabant Flamand
+1620,Drogenbos,4.3173542,50.78653,Brabant Flamand
+1630,Linkebeek,4.3345641,50.77161,Brabant Flamand
+1640,Rhode-Saint-Genèse,4.3463687,50.74503,Brabant Flamand
+1650,Beersel,4.305132149,50.76844,Brabant Flamand
+1651,Lot,4.272998622,50.76514,Brabant Flamand
+1652,Alsemberg,4.328170341,50.74495,Brabant Flamand
+1653,Dworp,4.295015283,50.73424,Brabant Flamand
+1654,Huizingen,4.273254597,50.74932,Brabant Flamand
+1670,Bogaarden,4.1367803,50.73981,Brabant Flamand
+1670,Heikruis,4.1126567,50.73485,Brabant Flamand
+1670,Pepingen,4.178588289,50.75117,Brabant Flamand
+1671,Elingen,4.174198072,50.77935,Brabant Flamand
+1673,Beert,4.185344936,50.73549,Brabant Flamand
+1674,Bellingen,4.160145028,50.7378,Brabant Flamand
+1700,Dilbeek,4.265729967,50.84409,Brabant Flamand
+1700,Sint-Martens-Bodegem,4.2150592,50.86272,Brabant Flamand
+1700,Sint-Ulriks-Kapelle,4.2206526,50.88003,Brabant Flamand
+1701,Itterbeek,4.2501187,50.8396,Brabant Flamand
+1702,Groot-Bijgaarden,4.263566837,50.87144,Brabant Flamand
+1703,Schepdaal,4.195149073,50.83631,Brabant Flamand
+1730,Asse,4.180437507,50.91359,Brabant Flamand
+1730,Bekkerzeel,4.2381789,50.88537,Brabant Flamand
+1730,Kobbegem,4.2496669,50.90916,Brabant Flamand
+1730,Mollem,4.2239826,50.93285,Brabant Flamand
+1731,Relegem,4.279026593,50.90198,Brabant Flamand
+1731,Zellik,4.2744185,50.88425,Brabant Flamand
+1740,Ternat,4.18341714,50.87156,Brabant Flamand
+1741,Wambeek,4.164637248,50.85673,Brabant Flamand
+1742,Sint-Katherina-Lombeek,4.1535568,50.87267,Brabant Flamand
+1745,Mazenzele,4.1717632,50.94288,Brabant Flamand
+1745,Opwijk,4.1896665,50.96905,Brabant Flamand
+1750,Gaasbeek,4.1888025,50.79989,Brabant Flamand
+1750,Lennik,4.1648626,50.80856,Brabant Flamand
+1750,Sint-Kwintens-Lennik,4.145616306,50.81145,Brabant Flamand
+1750,Sint-Martens-Lennik,4.169530391,50.81153,Brabant Flamand
+1755,Gooik,4.102984067,50.79797,Brabant Flamand
+1755,Kester,4.1212845,50.76313,Brabant Flamand
+1755,Leerbeek,4.1192641,50.77735,Brabant Flamand
+1755,Oetingen,4.0614624,50.77207,Brabant Flamand
+1760,Onze-Lieve-Vrouw-Lombeek,4.1119573,50.82204,Brabant Flamand
+1760,Pamel,4.082066479,50.83472,Brabant Flamand
+1760,Roosdaal,4.0972238,50.83414,Brabant Flamand
+1760,Strijtem,4.1145703,50.84055,Brabant Flamand
+1761,Borchtlombeek,4.136914865,50.84818,Brabant Flamand
+1770,Liedekerke,4.0860754,50.87113,Brabant Flamand
+1780,Wemmel,4.3108723,50.9146,Brabant Flamand
+1785,Brussegem,4.2658869,50.92777,Brabant Flamand
+1785,Hamme,4.120280781,51.08816,Brabant Flamand
+1785,Merchtem,4.2327769,50.9592,Brabant Flamand
+1790,Affligem,4.1174675,50.90351,Brabant Flamand
+1790,Essene,4.1390421,50.89739,Brabant Flamand
+1790,Hekelgem,4.11183549,50.9138,Brabant Flamand
+1790,Teralfene,4.09834,50.89214,Brabant Flamand
+1800,Peutie,4.4551981,50.92717,Brabant Flamand
+1800,Vilvoorde,4.432905251,50.92814,Brabant Flamand
+1820,Melsbroek,4.4758811,50.91707,Brabant Flamand
+1820,Perk,4.4960702,50.93316,Brabant Flamand
+1820,Steenokkerzeel,4.5110471,50.90935,Brabant Flamand
+1830,Machelen,4.4353614,50.91242,Brabant Flamand
+1831,Diegem,4.4365042,50.89456,Brabant Flamand
+1840,Londerzeel,4.299072942,51.01225,Brabant Flamand
+1840,Malderen,4.2437819,51.01984,Brabant Flamand
+1840,Steenhuffel,4.2624672,50.99444,Brabant Flamand
+1850,Grimbergen,4.401373263,50.95031,Brabant Flamand
+1851,Humbeek,4.377759928,50.97282,Brabant Flamand
+1852,Beigem,4.3638682,50.95271,Brabant Flamand
+1853,Strombeek-Bever,4.342355502,50.91096,Brabant Flamand
+1860,Meise,4.3287322,50.93416,Brabant Flamand
+1861,Wolvertem,4.3085198,50.95103,Brabant Flamand
+1880,Kapelle-Op-Den-Bos,4.3599725,51.01319,Brabant Flamand
+1880,Nieuwenrode,4.3512293,50.97998,Brabant Flamand
+1880,Ramsdonk,4.337496401,51.0115,Brabant Flamand
+1910,Berg,5.1521172,51.16957,Brabant Flamand
+1910,Buken,4.617418,50.93755,Brabant Flamand
+1910,Kampenhout,4.571163087,50.94924,Brabant Flamand
+1910,Nederokkerzeel,4.5645096,50.91901,Brabant Flamand
+1930,Nossegem,4.508102595,50.885,Brabant Flamand
+1930,Zaventem,4.4745515,50.88044,Brabant Flamand
+1932,Sint-Stevens-Woluwe,4.435993971,50.86624,Brabant Flamand
+1933,Sterrebeek,4.515743844,50.85396,Brabant Flamand
+1950,Kraainem,4.4691371,50.86061,Brabant Flamand
+1970,Wezembeek-Oppem,4.4871796,50.84406,Brabant Flamand
+1980,Eppegem,4.4556575,50.96143,Brabant Flamand
+1980,Zemst,4.444123339,50.9865,Brabant Flamand
+1981,Hofstade,4.504252661,50.9939,Brabant Flamand
+1982,Elewijt,4.507563892,50.96954,Brabant Flamand
+1982,Weerde,4.479869,50.97228,Brabant Flamand
+2000,Antwerpen,4.3997081,51.22111,Anvers
+2018,Antwerpen,4.3997081,51.22111,Anvers
+2020,Antwerpen,4.3997081,51.22111,Anvers
+2030,Antwerpen,4.3997081,51.22111,Anvers
+2040,Antwerpen,4.3997081,51.22111,Anvers
+2040,Berendrecht,4.319401,51.34554,Anvers
+2040,Lillo,4.2900122,51.30455,Anvers
+2040,Zandvliet,4.283626178,51.35985,Anvers
+2050,Antwerpen,4.3997081,51.22111,Anvers
+2060,Antwerpen,4.3997081,51.22111,Anvers
+2070,Burcht,4.3416362,51.2028,Anvers
+2070,Zwijndrecht,4.318869328,51.23062,Anvers
+2100,Deurne,4.469525409,51.21153,Anvers
+2110,Wijnegem,4.5225318,51.22708,Anvers
+2140,Borgerhout,4.440389506,51.2103,Anvers
+2150,Borsbeek,4.488953,51.19289,Anvers
+2160,Wommelgem,4.5238022,51.2031,Anvers
+2170,Merksem,4.445340164,51.24994,Anvers
+2180,Ekeren,4.432287078,51.2842,Anvers
+2200,Herentals,4.83464461,51.18555,Anvers
+2200,Morkhoven,4.8207801,51.12034,Anvers
+2200,Noorderwijk,4.8401277,51.14156,Anvers
+2220,Hallaar,4.719112072,51.08756,Anvers
+2220,Heist-Op-Den-Berg,4.719376553,51.06251,Anvers
+2221,Booischot,4.7692868,51.04717,Anvers
+2222,Itegem,4.731894345,51.10403,Anvers
+2222,Wiekevorst,4.785355899,51.10609,Anvers
+2223,Schriek,4.4361161,51.29074,Anvers
+2230,Herselt,4.901808003,51.05541,Anvers
+2230,Ramsel,4.8336098,51.03247,Anvers
+2235,Houtvenne,4.801293265,51.04605,Anvers
+2235,Hulshout,4.7885461,51.07539,Anvers
+2235,Westmeerbeek,4.8351334,51.06036,Anvers
+2240,Massenhoven,4.635692468,51.19902,Anvers
+2240,Viersel,4.6503063,51.18727,Anvers
+2240,Zandhoven,4.6595103,51.21479,Anvers
+2242,Pulderbos,4.70338521,51.22573,Anvers
+2243,Pulle,4.697544528,51.20116,Anvers
+2250,Olen,4.8597257,51.14386,Anvers
+2260,Oevel,4.9053101,51.13776,Anvers
+2260,Tongerlo,4.901262278,51.12207,Anvers
+2260,Westerlo,4.9168675,51.08669,Anvers
+2260,Zoerle-Parwijs,4.8729402,51.08809,Anvers
+2270,Herenthout,4.7543972,51.13924,Anvers
+2275,Gierle,4.8676797,51.26758,Anvers
+2275,Lille,4.8242404,51.23822,Anvers
+2275,Poederlee,4.8359528,51.22672,Anvers
+2275,Wechelderzande,4.79105827,51.26541,Anvers
+2280,Grobbendonk,4.73188443,51.1887,Anvers
+2288,Bouwel,4.737061439,51.1621,Anvers
+2290,Vorselaar,4.769482,51.20234,Anvers
+2300,Turnhout,4.948461,51.32338,Anvers
+2310,Rijkevorsel,4.760708,51.3495,Anvers
+2320,Hoogstraten,4.744065641,51.39574,Anvers
+2321,Meer,4.737254858,51.46092,Anvers
+2322,Minderhout,4.807079049,51.43156,Anvers
+2323,Wortel,4.808593088,51.39754,Anvers
+2328,Meerle,4.8051679,51.47435,Anvers
+2330,Merksplas,4.8627541,51.35806,Anvers
+2340,Beerse,4.837570452,51.31349,Anvers
+2340,Vlimmeren,4.7821797,51.2988,Anvers
+2350,Vosselaar,4.8878026,51.31292,Anvers
+2360,Oud-Turnhout,4.9817086,51.31783,Anvers
+2370,Arendonk,5.0864557,51.32023,Anvers
+2380,Ravels,5.019812292,51.38086,Anvers
+2381,Weelde,5.018244542,51.41207,Anvers
+2382,Poppel,5.048806967,51.45063,Anvers
+2387,Baarle-Hertog,4.900405171,51.41275,Anvers
+2390,Malle,4.7149828,51.30011,Anvers
+2390,Oostmalle,4.7331618,51.30192,Anvers
+2390,Westmalle,4.671309521,51.29941,Anvers
+2400,Mol,5.1155267,51.18404,Anvers
+2430,Eindhout,4.997289028,51.10171,Anvers
+2430,Laakdal,5.0073022,51.08027,Anvers
+2430,Vorst,5.0188161,51.07901,Anvers
+2431,Varendonk,4.9552253,51.08013,Anvers
+2431,Veerle,4.98055369,51.0592,Anvers
+2440,Geel,4.9903187,51.16108,Anvers
+2450,Meerhout,5.0772388,51.13174,Anvers
+2460,Kasterlee,4.967812,51.24079,Anvers
+2460,Lichtaart,4.903739074,51.23092,Anvers
+2460,Tielen,4.8965455,51.24226,Anvers
+2470,Retie,5.0843883,51.26759,Anvers
+2480,Dessel,5.113243,51.23957,Anvers
+2490,Balen,5.193773076,51.1718,Anvers
+2491,Olmen,5.164821446,51.13369,Anvers
+2500,Koningshooikt,4.603382811,51.09294,Anvers
+2500,Lier,4.5696516,51.13107,Anvers
+2520,Broechem,4.5967162,51.1814,Anvers
+2520,Emblem,4.6047327,51.16258,Anvers
+2520,Oelegem,4.5972162,51.21107,Anvers
+2520,Ranst,4.563756361,51.19617,Anvers
+2530,Boechout,4.510406865,51.15969,Anvers
+2531,Vremde,4.5226229,51.17531,Anvers
+2540,Hove,4.477387,51.14861,Anvers
+2547,Lint,4.4922187,51.12683,Anvers
+2550,Kontich,4.4456359,51.13438,Anvers
+2550,Waarloos,4.453,51.10527,Anvers
+2560,Bevel,4.692287577,51.13643,Anvers
+2560,Kessel,4.6393456,51.14453,Anvers
+2560,Nijlen,4.670951732,51.16119,Anvers
+2570,Duffel,4.5061988,51.09572,Anvers
+2580,Beerzel,4.663080741,51.063,Anvers
+2580,Putte,4.6310473,51.05708,Anvers
+2590,Berlaar,4.664038763,51.10304,Anvers
+2590,Gestel,4.66463132,51.12759,Anvers
+2600,Berchem,4.431702639,51.19185,Anvers
+2610,Wilrijk,4.387630961,51.16385,Anvers
+2620,Hemiksem,4.3420555,51.14421,Anvers
+2627,Schelle,4.3361875,51.12456,Anvers
+2630,Aartselaar,4.3870241,51.1333,Anvers
+2640,Mortsel,4.4593335,51.17418,Anvers
+2650,Edegem,4.4384284,51.15748,Anvers
+2660,Hoboken,4.351150217,51.17578,Anvers
+2800,Mechelen,4.4713212,51.02803,Anvers
+2800,Walem,4.4568748,51.06579,Anvers
+2801,Heffen,4.412476256,51.05194,Anvers
+2811,Hombeek,4.421191052,51.01166,Anvers
+2811,Leest,4.4150058,51.03506,Anvers
+2812,Muizen,4.518299973,51.00832,Anvers
+2820,Bonheiden,4.537821778,51.02613,Anvers
+2820,Rijmenam,4.5842221,51.00108,Anvers
+2830,Blaasveld,4.3723517,51.05652,Anvers
+2830,Heindonk,4.4066584,51.06703,Anvers
+2830,Tisselt,4.3598407,51.03399,Anvers
+2830,Willebroek,4.357232464,51.0627,Anvers
+2840,Reet,4.405889959,51.10449,Anvers
+2840,Rumst,4.4240472,51.07929,Anvers
+2840,Terhagen,4.3993623,51.07828,Anvers
+2845,Niel,4.3303396,51.10986,Anvers
+2850,Boom,4.3667216,51.08738,Anvers
+2860,Sint-Katelijne-Waver,4.511427814,51.06232,Anvers
+2861,Onze-Lieve-Vrouw-Waver,4.5799614,51.06249,Anvers
+2870,Breendonk,4.313610863,51.04527,Anvers
+2870,Liezele,4.28085161,51.05486,Anvers
+2870,Puurs,4.286192868,51.072,Anvers
+2870,Ruisbroek,4.337981582,51.08021,Anvers
+2880,Bornem,4.242326005,51.09246,Anvers
+2880,Hingene,4.293086293,51.10311,Anvers
+2880,Mariekerke,4.201030955,51.06647,Anvers
+2880,Weert,4.185588275,51.10151,Anvers
+2890,Lippelo,4.251921393,51.04515,Anvers
+2890,Oppuurs,4.238988952,51.06221,Anvers
+2890,Sint-Amands,4.21073482,51.04634,Anvers
+2900,Schoten,4.4980446,51.25163,Anvers
+2910,Essen,4.4701309,51.4678,Anvers
+2920,Kalmthout,4.4763255,51.38327,Anvers
+2930,Brasschaat,4.489307,51.29309,Anvers
+2940,Hoevenen,4.4046996,51.30662,Anvers
+2940,Stabroek,4.370312016,51.33519,Anvers
+2950,Kapellen,4.431231831,51.33276,Anvers
+2960,Brecht,4.597238179,51.33477,Anvers
+2960,Sint-Job-In-'t-Goor,4.5759347,51.29559,Anvers
+2960,Sint-Lenaarts,4.6782162,51.34538,Anvers
+2970,'s Gravenwezel,4.5556038,51.26249,Anvers
+2970,Schilde,4.595515736,51.2571,Anvers
+2980,Halle,4.645556534,51.24284,Anvers
+2980,Zoersel,4.7132557,51.27167,Anvers
+2990,Loenhout,4.6428328,51.39945,Anvers
+2990,Wuustwezel,4.565174345,51.38525,Anvers
+3000,Leuven,4.692990322,50.88125,Brabant Flamand
+3001,Heverlee,4.693130751,50.85173,Brabant Flamand
+3010,Kessel Lo,4.730761495,50.88992,Brabant Flamand
+3012,Wilsele,4.7136294,50.90954,Brabant Flamand
+3018,Wijgmaal,4.7001214,50.92643,Brabant Flamand
+3020,Herent,4.672714,50.90793,Brabant Flamand
+3020,Veltem-Beisem,4.6255138,50.9021,Brabant Flamand
+3020,Winksele,4.640447196,50.91248,Brabant Flamand
+3040,Huldenberg,4.58285874,50.79509,Brabant Flamand
+3040,Loonbeek,4.6067572,50.80703,Brabant Flamand
+3040,Neerijse,4.629029113,50.81115,Brabant Flamand
+3040,Ottenburg,4.625802458,50.7541,Brabant Flamand
+3040,Sint-Agatha-Rode,4.632955656,50.77948,Brabant Flamand
+3050,Oud-Heverlee,4.6678971,50.82177,Brabant Flamand
+3051,Sint-Joris-Weert,4.645828979,50.8051,Brabant Flamand
+3052,Blanden,4.705679661,50.82817,Brabant Flamand
+3053,Haasrode,4.728370694,50.81786,Brabant Flamand
+3054,Vaalbeek,4.685271359,50.82408,Brabant Flamand
+3060,Bertem,4.6322907,50.87065,Brabant Flamand
+3060,Korbeek-Dijle,4.629943974,50.84701,Brabant Flamand
+3061,Leefdaal,4.590504365,50.84199,Brabant Flamand
+3070,Kortenberg,4.536470704,50.88327,Brabant Flamand
+3071,Erps-Kwerps,4.575086413,50.9105,Brabant Flamand
+3078,Everberg,4.554594959,50.87266,Brabant Flamand
+3078,Meerbeek,4.597269254,50.87829,Brabant Flamand
+3080,Duisburg,4.545208432,50.81105,Brabant Flamand
+3080,Tervuren,4.5144027,50.82277,Brabant Flamand
+3080,Vossem,4.556566089,50.83488,Brabant Flamand
+3090,Overijse,4.5385226,50.77293,Brabant Flamand
+3110,Rotselaar,4.714320596,50.95436,Brabant Flamand
+3111,Wezemaal,4.768330689,50.94826,Brabant Flamand
+3118,Werchter,4.702687723,50.97072,Brabant Flamand
+3120,Tremelo,4.6755134,50.99005,Brabant Flamand
+3128,Baal,4.750536766,51.00753,Brabant Flamand
+3130,Begijnendijk,4.782640312,51.02422,Brabant Flamand
+3130,Betekom,4.790830177,50.99603,Brabant Flamand
+3140,Keerbergen,4.6265551,51.00492,Brabant Flamand
+3150,Haacht,4.6386824,50.97693,Brabant Flamand
+3150,Tildonk,4.659516578,50.94082,Brabant Flamand
+3150,Wespelaar,4.632589056,50.95645,Brabant Flamand
+3190,Boortmeerbeek,4.575800525,50.97829,Brabant Flamand
+3191,Hever,4.5553278,50.99259,Brabant Flamand
+3200,Aarschot,4.8245687,50.98416,Brabant Flamand
+3200,Gelrode,4.804273044,50.96708,Brabant Flamand
+3201,Langdorp,4.885698962,51.01187,Brabant Flamand
+3202,Rillaar,4.897049427,50.97591,Brabant Flamand
+3210,Linden,4.775684751,50.89891,Brabant Flamand
+3210,Lubbeek,4.840059941,50.88211,Brabant Flamand
+3211,Binkom,4.890888586,50.87214,Brabant Flamand
+3212,Pellenberg,4.789408665,50.87211,Brabant Flamand
+3220,Holsbeek,4.755729672,50.92172,Brabant Flamand
+3220,Kortrijk-Dutsel,4.785455563,50.91851,Brabant Flamand
+3220,Sint-Pieters-Rode,4.829187298,50.92081,Brabant Flamand
+3221,Nieuwrode,4.833804539,50.94703,Brabant Flamand
+3270,Scherpenheuvel,4.954732777,50.97257,Brabant Flamand
+3270,Scherpenheuvel-Zichem,4.975432566,50.96891,Brabant Flamand
+3271,Averbode,4.977084579,51.02784,Brabant Flamand
+3271,Zichem,4.984958799,51.00858,Brabant Flamand
+3272,Messelbroek,4.924667682,50.98948,Brabant Flamand
+3272,Testelt,4.948470729,51.01928,Brabant Flamand
+3290,Deurne,5.0964572,51.03924,Brabant Flamand
+3290,Diest,5.052873496,50.98457,Brabant Flamand
+3290,Schaffen,5.08679255,51.01304,Brabant Flamand
+3290,Webbekom,5.054414062,50.96493,Brabant Flamand
+3293,Kaggevinne,5.029940493,50.9777,Brabant Flamand
+3294,Molenstede,5.024746529,51.00718,Brabant Flamand
+3300,Bost,4.933923959,50.78463,Brabant Flamand
+3300,Goetsenhoven,4.960330121,50.7714,Brabant Flamand
+3300,Hakendover,4.988655261,50.79717,Brabant Flamand
+3300,Kumtich,4.886379838,50.82455,Brabant Flamand
+3300,Oorbeek,4.913760238,50.79216,Brabant Flamand
+3300,Oplinter,4.995069207,50.82849,Brabant Flamand
+3300,Sint-Margriete-Houtem,4.96238052,50.83465,Brabant Flamand
+3300,Tienen,4.946429213,50.80843,Brabant Flamand
+3300,Vissenaken,4.911143121,50.84379,Brabant Flamand
+3320,Hoegaarden,4.881141936,50.78779,Brabant Flamand
+3320,Meldert,4.829456686,50.78957,Brabant Flamand
+3321,Outgaarden,4.9193571,50.7666,Brabant Flamand
+3350,Drieslinter,5.053345558,50.84486,Brabant Flamand
+3350,Linter,5.0409717,50.82915,Brabant Flamand
+3350,Melkwezer,5.058529248,50.82494,Brabant Flamand
+3350,Neerhespen,5.05793363,50.78801,Brabant Flamand
+3350,Neerlinter,5.0283876,50.84335,Brabant Flamand
+3350,Orsmaal-Gussenhoven,5.0674769,50.80541,Brabant Flamand
+3350,Overhespen,5.030043288,50.79684,Brabant Flamand
+3350,Wommersom,5.018310629,50.81236,Brabant Flamand
+3360,Bierbeek,4.771431808,50.82412,Brabant Flamand
+3360,Korbeek-Lo,4.756177507,50.86176,Brabant Flamand
+3360,Lovenjoel,4.786687336,50.85476,Brabant Flamand
+3360,Opvelp,4.7912848,50.80733,Brabant Flamand
+3370,Boutersem,4.833617805,50.84735,Brabant Flamand
+3370,Kerkom,4.864335805,50.857,Brabant Flamand
+3370,Neervelp,4.813669957,50.81669,Brabant Flamand
+3370,Roosbeek,4.862026934,50.84022,Brabant Flamand
+3370,Vertrijk,4.827017996,50.834,Brabant Flamand
+3370,Willebringen,4.838702288,50.80664,Brabant Flamand
+3380,Bunsbeek,4.960110793,50.85104,Brabant Flamand
+3380,Glabbeek,4.9513009,50.87252,Brabant Flamand
+3381,Kapellen,4.960877619,50.88735,Brabant Flamand
+3384,Attenrode,4.916755414,50.86946,Brabant Flamand
+3390,Houwaart,4.860599744,50.93414,Brabant Flamand
+3390,Sint-Joris-Winge,4.875411654,50.91218,Brabant Flamand
+3390,Tielt,4.915551332,50.93462,Brabant Flamand
+3390,Tielt-Winge,4.886378182,50.92427,Brabant Flamand
+3391,Meensel-Kiezegem,4.917343133,50.89505,Brabant Flamand
+3400,Eliksem,5.007492232,50.7871,Brabant Flamand
+3400,Ezemaal,4.997333783,50.77662,Brabant Flamand
+3400,Laar,4.4410406,51.26876,Brabant Flamand
+3400,Landen,5.079096612,50.74932,Brabant Flamand
+3400,Neerwinden,5.040997577,50.76523,Brabant Flamand
+3400,Overwinden,5.044802526,50.75243,Brabant Flamand
+3400,Rumsdorp,5.069556423,50.76917,Brabant Flamand
+3400,Wange,5.03027239,50.78384,Brabant Flamand
+3401,Waasmont,5.060942049,50.72608,Brabant Flamand
+3401,Walsbets,5.08785355,50.7385,Brabant Flamand
+3401,Walshoutem,5.086997595,50.71821,Brabant Flamand
+3401,Wezeren,5.109496137,50.73217,Brabant Flamand
+3404,Attenhoven,5.100653433,50.76537,Brabant Flamand
+3404,Neerlanden,5.079387462,50.7821,Brabant Flamand
+3440,Budingen,5.087123767,50.86535,Brabant Flamand
+3440,Dormaal,5.09204215,50.80634,Brabant Flamand
+3440,Halle-Booienhoven,5.120576178,50.81273,Brabant Flamand
+3440,Helen-Bos,5.080225914,50.83604,Brabant Flamand
+3440,Zoutleeuw,5.118644748,50.84157,Brabant Flamand
+3450,Geetbets,5.101581003,50.89519,Brabant Flamand
+3450,Grazen,5.12992778,50.87541,Brabant Flamand
+3454,Rummen,5.156491748,50.88595,Brabant Flamand
+3460,Assent,5.013668844,50.94677,Brabant Flamand
+3460,Bekkevoort,4.984616972,50.9339,Brabant Flamand
+3461,Molenbeek-Wersbeek,4.9541212,50.92121,Brabant Flamand
+3470,Kortenaken,5.068392496,50.90567,Brabant Flamand
+3470,Ransberg,5.036064617,50.87582,Brabant Flamand
+3470,Sint-Margriete-Houtem,4.96238052,50.83465,Brabant Flamand
+3471,Hoeleden,5.001462802,50.86681,Brabant Flamand
+3472,Kersbeek-Miskom,5.006511605,50.89309,Brabant Flamand
+3473,Waanrode,5.003771633,50.91294,Brabant Flamand
+3500,Hasselt,5.336838397,50.93036,Limbourg
+3500,Sint-Lambrechts-Herk,5.311946279,50.90358,Limbourg
+3501,Wimmertingen,5.35129064,50.87693,Limbourg
+3510,Kermt,5.250978464,50.95245,Limbourg
+3510,Spalbeek,5.227794431,50.94904,Limbourg
+3511,Kuringen,5.3052007,50.94394,Limbourg
+3511,Stokrooie,5.274749137,50.97085,Limbourg
+3512,Stevoort,5.244429194,50.91698,Limbourg
+3520,Zonhoven,5.3677683,50.99098,Limbourg
+3530,Helchteren,5.384482165,51.07433,Limbourg
+3530,Houthalen,5.412154714,51.03656,Limbourg
+3530,Houthalen-Helchteren,5.3713044,51.02818,Limbourg
+3540,Berbroek,5.209857666,50.94876,Limbourg
+3540,Donk,4.9053567,50.95821,Limbourg
+3540,Herk-De-Stad,5.188430187,50.92229,Limbourg
+3540,Schulen,5.17167295,50.95334,Limbourg
+3545,Halen,5.107391344,50.93843,Limbourg
+3545,Loksbergen,5.065623408,50.93212,Limbourg
+3545,Zelem,5.109267074,50.98016,Limbourg
+3550,Heusden,5.283553129,51.04153,Limbourg
+3550,Heusden-Zolder,5.2750485,51.02335,Limbourg
+3550,Zolder,5.3135203,51.02366,Limbourg
+3560,Linkhout,5.1372552,50.96579,Limbourg
+3560,Lummen,5.202559,51.00313,Limbourg
+3560,Meldert,5.147209971,51.00675,Limbourg
+3570,Alken,5.3079873,50.87547,Limbourg
+3580,Beringen,5.220809082,51.0502,Limbourg
+3581,Beverlo,5.244356551,51.08973,Limbourg
+3582,Koersel,5.271159655,51.06979,Limbourg
+3583,Paal,5.161672557,51.04746,Limbourg
+3590,Diepenbeek,5.4200307,50.90785,Limbourg
+3600,Genk,5.5001456,50.96549,Limbourg
+3620,Gellik,5.6091315,50.88395,Limbourg
+3620,Lanaken,5.6513208,50.88928,Limbourg
+3620,Neerharen,5.680982,50.90778,Limbourg
+3620,Veldwezelt,5.6323869,50.8656,Limbourg
+3621,Rekem,5.662609476,50.92841,Limbourg
+3630,Eisden,5.7128515,50.9863,Limbourg
+3630,Leut,5.7355142,50.99217,Limbourg
+3630,Maasmechelen,5.696445,50.9635,Limbourg
+3630,Mechelen-Aan-De-Maas,5.645697956,50.9764,Limbourg
+3630,Meeswijk,5.7468352,51.00141,Limbourg
+3630,Opgrimbie,5.6810305,50.9436,Limbourg
+3630,Vucht,5.7134261,50.97704,Limbourg
+3631,Boorsem,5.7147232,50.94089,Limbourg
+3631,Uikhoven,5.719919851,50.92647,Limbourg
+3640,Kessenich,5.808924333,51.1492,Limbourg
+3640,Kinrooi,5.741456461,51.14313,Limbourg
+3640,Molenbeersel,5.726076342,51.16842,Limbourg
+3640,Ophoven,5.788152966,51.13226,Limbourg
+3650,Dilsen,5.699144386,51.03286,Limbourg
+3650,Dilsen-Stokkem,5.7311405,51.02848,Limbourg
+3650,Elen,5.740400593,51.06942,Limbourg
+3650,Lanklaar,5.67475703,51.01086,Limbourg
+3650,Rotem,5.720521603,51.05309,Limbourg
+3650,Stokkem,5.750838162,51.01979,Limbourg
+3660,Opglabbeek,5.581962,51.04299,Limbourg
+3665,As,5.572202585,51.00054,Limbourg
+3668,Niel-Bij-As,5.616166004,51.01825,Limbourg
+3670,Ellikom,5.528946361,51.13035,Limbourg
+3670,Gruitrode,5.581381435,51.08478,Limbourg
+3670,Meeuwen,5.50291708,51.07823,Limbourg
+3670,Meeuwen-Gruitrode,5.5540751,51.09331,Limbourg
+3670,Neerglabbeek,5.618169769,51.09678,Limbourg
+3670,Wijshagen,5.532541372,51.07704,Limbourg
+3680,Maaseik,5.791733,51.09472,Limbourg
+3680,Neeroeteren,5.702713677,51.09465,Limbourg
+3680,Opoeteren,5.648731254,51.0534,Limbourg
+3690,Zutendaal,5.5725548,50.9319,Limbourg
+3700,'s Herenelderen,5.5030479,50.80648,Limbourg
+3700,Berg,5.1521172,51.16957,Limbourg
+3700,Diets-Heur,5.4843527,50.74502,Limbourg
+3700,Haren,4.412570873,50.89197,Limbourg
+3700,Henis,5.4696959,50.7994,Limbourg
+3700,Kolmont,5.4206775,50.80274,Limbourg
+3700,Koninksem,5.4417282,50.76784,Limbourg
+3700,Lauw,5.4147831,50.73991,Limbourg
+3700,Mal,5.5223906,50.76896,Limbourg
+3700,Neerrepen,5.4449386,50.81213,Limbourg
+3700,Nerem,5.5102044,50.76309,Limbourg
+3700,Overrepen,5.4301056,50.80671,Limbourg
+3700,Piringen,5.4198462,50.78739,Limbourg
+3700,Riksingen,5.4616724,50.8065,Limbourg
+3700,Rutten,5.4421316,50.74705,Limbourg
+3700,Sluizen,2.7568247,51.13327,Limbourg
+3700,Tongeren,5.4648131,50.78102,Limbourg
+3700,Vreren,5.495696,50.75203,Limbourg
+3700,Widooie,5.409701,50.77191,Limbourg
+3717,Herstappe,5.4260923,50.72738,Limbourg
+3720,Kortessem,5.377000029,50.86195,Limbourg
+3721,Vliermaalroot,5.429857466,50.8668,Limbourg
+3722,Wintershoven,5.407345632,50.85566,Limbourg
+3723,Guigoven,5.400563228,50.84255,Limbourg
+3724,Vliermaal,5.425909174,50.8326,Limbourg
+3730,Hoeselt,5.4865309,50.85008,Limbourg
+3730,Romershoven,5.4593316,50.85805,Limbourg
+3730,Sint-Huibrechts-Hern,5.4487057,50.82929,Limbourg
+3730,Werm,5.4804957,50.83357,Limbourg
+3732,Schalkhoven,5.448166928,50.84229,Limbourg
+3740,Beverst,5.4734935,50.89216,Limbourg
+3740,Bilzen,5.5163011,50.87134,Limbourg
+3740,Eigenbilzen,5.5755614,50.87439,Limbourg
+3740,Grote-Spouwen,5.5538483,50.83252,Limbourg
+3740,Hees,5.6124793,50.84607,Limbourg
+3740,Kleine-Spouwen,5.5473874,50.83797,Limbourg
+3740,Mopertingen,5.5760673,50.8623,Limbourg
+3740,Munsterbilzen,5.5270242,50.88833,Limbourg
+3740,Rijkhoven,5.5163495,50.8343,Limbourg
+3740,Rosmeer,5.5753682,50.84583,Limbourg
+3740,Waltwilder,5.5464648,50.86388,Limbourg
+3742,Martenslinde,5.534048641,50.85233,Limbourg
+3746,Hoelbeek,5.556142701,50.88326,Limbourg
+3770,Genoelselderen,5.5369013,50.80177,Limbourg
+3770,Herderen,5.5744881,50.80711,Limbourg
+3770,Kanne,5.6692203,50.81416,Limbourg
+3770,Membruggen,5.5391564,50.81781,Limbourg
+3770,Millen,5.560302,50.78447,Limbourg
+3770,Riemst,5.5978716,50.81158,Limbourg
+3770,Val-Meer,5.5971013,50.78712,Limbourg
+3770,Vlijtingen,5.5895873,50.83291,Limbourg
+3770,Vroenhoven,5.6374847,50.82802,Limbourg
+3770,Zichen-Zussen-Bolder,5.6153404,50.79435,Limbourg
+3790,Fouron-Saint-Martin,5.842934228,50.74088,Limbourg
+3790,Fourons,5.839052712,50.74659,Limbourg
+3790,Mouland,5.714846991,50.75519,Limbourg
+3791,Remersdaal,5.881877603,50.72838,Limbourg
+3792,Fouron-Saint-Pierre,5.824242712,50.7283,Limbourg
+3793,Teuven,5.869530469,50.75322,Limbourg
+3798,Fouron-Le-Comte,5.77194619,50.76114,Limbourg
+3800,Aalst,5.2127604,50.78139,Limbourg
+3800,Brustem,5.230273192,50.79912,Limbourg
+3800,Engelmanshoven,5.251806309,50.77281,Limbourg
+3800,Gelinden,5.250934523,50.76025,Limbourg
+3800,Groot-Gelmen,5.262117076,50.78321,Limbourg
+3800,Halmaal,5.149912147,50.80055,Limbourg
+3800,Kerkom-Bij-Sint-Truiden,5.178783443,50.77334,Limbourg
+3800,Ordingen,5.238190232,50.81377,Limbourg
+3800,Sint-Truiden,5.203424912,50.82695,Limbourg
+3800,Zepperen,5.257916329,50.84032,Limbourg
+3803,Duras,5.146158129,50.83411,Limbourg
+3803,Gorsem,5.165898874,50.83805,Limbourg
+3803,Runkelen,5.1519921,50.84777,Limbourg
+3803,Wilderen,5.142302588,50.81774,Limbourg
+3806,Velm,5.132211277,50.78,Limbourg
+3830,Berlingen,5.311174893,50.82338,Limbourg
+3830,Wellen,5.342165318,50.84347,Limbourg
+3831,Herten,5.332235963,50.82705,Limbourg
+3832,Ulbeek,5.293672501,50.8432,Limbourg
+3840,Bommershoven,5.382353155,50.78523,Limbourg
+3840,Borgloon,5.356992925,50.80044,Limbourg
+3840,Broekom,5.3324575,50.78191,Limbourg
+3840,Gors-Opleeuw,5.384941279,50.83086,Limbourg
+3840,Gotem,5.305525003,50.80106,Limbourg
+3840,Groot-Loon,5.365995741,50.79389,Limbourg
+3840,Haren,5.3972985,50.79135,Limbourg
+3840,Hendrieken,5.328796687,50.79725,Limbourg
+3840,Hoepertingen,5.285274885,50.81159,Limbourg
+3840,Jesseren,5.3905151,50.80587,Limbourg
+3840,Kerniel,5.361642114,50.82372,Limbourg
+3840,Kolmont,5.4206775,50.80274,Limbourg
+3840,Kuttekoven,5.331033835,50.81408,Limbourg
+3840,Rijkel,5.261288552,50.80429,Limbourg
+3840,Voort,4.6797906,51.16745,Limbourg
+3850,Binderveld,5.168447929,50.86548,Limbourg
+3850,Kozen,5.2414389,50.87529,Limbourg
+3850,Nieuwerkerken,5.190974179,50.87458,Limbourg
+3850,Wijer,5.2233097,50.89723,Limbourg
+3870,Batsheers,5.2807989,50.73818,Limbourg
+3870,Bovelingen,5.2551977,50.73759,Limbourg
+3870,Heers,5.3017509,50.751,Limbourg
+3870,Heks,5.3567635,50.76876,Limbourg
+3870,Horpmaal,5.3328245,50.75828,Limbourg
+3870,Klein-Gelmen,5.2763925,50.77135,Limbourg
+3870,Mechelen-Bovelingen,5.2629291,50.74279,Limbourg
+3870,Mettekoven,5.2896635,50.78031,Limbourg
+3870,Opheers,5.2944311,50.73669,Limbourg
+3870,Rukkelingen-Loon,5.2539162,50.72784,Limbourg
+3870,Vechmaal,5.373733,50.76089,Limbourg
+3870,Veulen,5.3063809,50.76338,Limbourg
+3890,Boekhout,5.231432693,50.74561,Limbourg
+3890,Gingelom,5.132578948,50.75138,Limbourg
+3890,Jeuk,5.209539102,50.73258,Limbourg
+3890,Kortijs,5.148550256,50.70528,Limbourg
+3890,Montenaken,5.138623908,50.71838,Limbourg
+3890,Niel-Bij-Sint-Truiden,5.141935947,50.74046,Limbourg
+3890,Vorsen,5.171328875,50.70523,Limbourg
+3891,Borlo,5.174378573,50.73452,Limbourg
+3891,Buvingen,5.17889508,50.75022,Limbourg
+3891,Mielen-Boven-Aalst,5.214104175,50.75733,Limbourg
+3891,Muizen,5.17813615,50.76147,Limbourg
+3900,Overpelt,5.422976,51.21135,Limbourg
+3910,Neerpelt,5.4314419,51.22897,Limbourg
+3910,Sint-Huibrechts-Lille,5.493700115,51.22531,Limbourg
+3920,Lommel,5.3076895,51.23057,Limbourg
+3930,Achel,5.479289572,51.26843,Limbourg
+3930,Hamont,5.531287314,51.25459,Limbourg
+3930,Hamont-Achel,5.5128696,51.25476,Limbourg
+3940,Hechtel,5.341564378,51.11665,Limbourg
+3940,Hechtel-Eksel,5.341564378,51.11665,Limbourg
+3941,Eksel,5.344043927,51.15679,Limbourg
+3945,Ham,5.178110974,51.11417,Limbourg
+3945,Kwaadmechelen,5.13256748,51.09663,Limbourg
+3945,Oostham,5.183855604,51.10877,Limbourg
+3950,Bocholt,5.599558195,51.19248,Limbourg
+3950,Kaulille,5.517280555,51.19392,Limbourg
+3950,Reppel,5.55229978,51.14705,Limbourg
+3960,Beek,5.637817805,51.16614,Limbourg
+3960,Bree,5.622980506,51.13862,Limbourg
+3960,Gerdingen,5.564874379,51.13045,Limbourg
+3960,Opitter,5.647795481,51.11842,Limbourg
+3960,Tongerlo,5.678853397,51.13055,Limbourg
+3970,Leopoldsburg,5.263892429,51.12206,Limbourg
+3971,Heppen,5.226535596,51.11583,Limbourg
+3980,Tessenderlo,5.0893974,51.06816,Limbourg
+3990,Grote-Brogel,5.508709838,51.142,Limbourg
+3990,Kleine-Brogel,5.46236101,51.17261,Limbourg
+3990,Peer,5.449157219,51.10874,Limbourg
+3990,Wijchmaal,5.414746956,51.1272,Limbourg
+4000,Glain,5.541864,50.64821,Liege
+4000,Liege,5.5734203,50.64514,Liege
+4000,Rocourt,5.547616,50.67804,Liege
+4020,Bressoux,5.6111443,50.6413,Liege
+4020,Jupille-Sur-Meuse,5.6301266,50.64319,Liege
+4020,Liege,5.5734203,50.64514,Liege
+4020,Wandre,5.6596627,50.67025,Liege
+4030,Grivegnee,5.599573,50.62185,Liege
+4031,Angleur,5.5954054,50.61282,Liege
+4032,Chênee,5.619261,50.6111,Liege
+4040,Herstal,5.6403906,50.67019,Liege
+4041,Milmort,5.5929155,50.69046,Liege
+4041,Vottem,5.5846274,50.67265,Liege
+4042,Liers,5.563754,50.69338,Liege
+4050,Chaudfontaine,5.6469688,50.58479,Liege
+4051,Vaux-Sous-Chèvremont,5.6335963,50.60187,Liege
+4052,Beaufays,5.6387759,50.55896,Liege
+4053,Embourg,5.619201,50.58936,Liege
+4100,Boncelles,5.5355698,50.5743,Liege
+4100,Seraing,5.5083375,50.59664,Liege
+4101,Jemeppe-Sur-Meuse,5.5049541,50.61683,Liege
+4102,Ougrée,5.5389943,50.59926,Liege
+4120,Ehein,5.4444346,50.54451,Liege
+4120,Neupré,5.4901079,50.54318,Liege
+4120,Rotheux-Rimière,5.4811796,50.53534,Liege
+4121,Neuville-En-Condroz,5.4514318,50.55203,Liege
+4122,Plainevaux,5.5215011,50.54468,Liege
+4130,Esneux,5.575772744,50.53372,Liege
+4130,Tilff,5.594232762,50.56132,Liege
+4140,Dolembreux,5.628000939,50.53759,Liege
+4140,Gomzé-Andoumont,5.683577296,50.54506,Liege
+4140,Rouvreux,5.664255237,50.48934,Liege
+4140,Sprimont,5.646657076,50.50656,Liege
+4141,Louveigné,5.7172478,50.52484,Liege
+4160,Anthisnes,5.5225261,50.48166,Liege
+4161,Villers-Aux-Tours,5.5122974,50.49694,Liege
+4162,Hody,5.5009881,50.48692,Liege
+4163,Tavier,5.4707571,50.49602,Liege
+4170,Comblain-Au-Pont,5.576470727,50.47491,Liege
+4171,Poulseur,5.5827847,50.50976,Liege
+4180,Comblain-Fairon,5.5428656,50.44545,Liege
+4180,Comblain-La-Tour,5.5699525,50.45531,Liege
+4180,Hamoir,5.5328465,50.4254,Liege
+4181,Filot,5.5680501,50.42675,Liege
+4190,Ferrières,5.605138,50.39995,Liege
+4190,My,5.5726031,50.40526,Liege
+4190,Vieuxville,5.5512446,50.39551,Liege
+4190,Werbomont,5.686798,50.38001,Liege
+4190,Xhoris,5.602069,50.44398,Liege
+4210,Burdinne,5.072436,50.58126,Liege
+4210,Hannêche,5.0495231,50.57959,Liege
+4210,Lamontzée,5.0899261,50.58373,Liege
+4210,Marneffe,5.1448898,50.5791,Liege
+4210,Oteppe,5.1270159,50.58236,Liege
+4217,Héron,5.0971783,50.55082,Liege
+4217,Lavoir,5.1257368,50.54871,Liege
+4217,Waret-L'evêque,5.0671316,50.55579,Liege
+4218,Couthuin,5.1318708,50.53317,Liege
+4219,Acosse,5.0485902,50.59457,Liege
+4219,Ambresin,5.0305133,50.62668,Liege
+4219,Meeffe,5.016335,50.60896,Liege
+4219,Wasseiges,5.006384,50.62218,Liege
+4250,Boëlhe,5.1679183,50.68419,Liege
+4250,Geer,5.1710529,50.66849,Liege
+4250,Hollogne-Sur-Geer,5.2045681,50.67708,Liege
+4250,Lens-Saint-Servais,5.16091,50.66371,Liege
+4252,Omal,5.1969427,50.65545,Liege
+4253,Darion,5.187047,50.66492,Liege
+4254,Ligney,5.182381,50.66174,Liege
+4257,Berloz,5.2146261,50.69773,Liege
+4257,Corswarem,5.2131541,50.70957,Liege
+4260,Avennes,5.1159746,50.62875,Liege
+4260,Braives,5.1435257,50.63007,Liege
+4260,Ciplet,5.0953487,50.61714,Liege
+4260,Fallais,5.1738356,50.60931,Liege
+4260,Fumal,5.184607,50.58689,Liege
+4260,Ville-En-Hesbaye,5.1157512,50.61829,Liege
+4261,Latinne,5.1632447,50.6242,Liege
+4263,Tourinne,5.1765528,50.63955,Liege
+4280,Abolens,5.1498313,50.67206,Liege
+4280,Avernas-Le-Bauduin,5.0789239,50.69462,Liege
+4280,Avin,5.067671,50.62086,Liege
+4280,Bertrée,5.089556,50.69418,Liege
+4280,Blehen,5.1255375,50.66293,Liege
+4280,Cras-Avernas,5.122837,50.6979,Liege
+4280,Crehen,5.0621464,50.6606,Liege
+4280,Grand-Hallet,5.0340611,50.69412,Liege
+4280,Hannut,5.0779916,50.67246,Liege
+4280,Lens-Saint-Remy,5.1329047,50.6534,Liege
+4280,Merdorp,4.9987365,50.6493,Liege
+4280,Moxhe,5.0813689,50.63,Liege
+4280,Petit-Hallet,5.0184357,50.68756,Liege
+4280,Poucet,5.1124332,50.67778,Liege
+4280,Thisnes,5.0480724,50.66556,Liege
+4280,Trognée,5.1242082,50.6878,Liege
+4280,Villers-Le-Peuplier,5.09579,50.6565,Liege
+4280,Wansin,5.02018,50.67863,Liege
+4287,Lincent,5.0318166,50.71161,Liege
+4287,Pellaines,5.0055524,50.72281,Liege
+4287,Racour,5.0290114,50.73883,Liege
+4300,Bettincourt,5.235361,50.70998,Liege
+4300,Bleret,5.2888884,50.68933,Liege
+4300,Bovenistier,5.2843336,50.6675,Liege
+4300,Grand-Axhe,5.2243853,50.679,Liege
+4300,Lantremange,5.2947196,50.71144,Liege
+4300,Oleye,5.2808546,50.71255,Liege
+4300,Waremme,5.2546191,50.69769,Liege
+4317,Aineffe,5.256235,50.62296,Liege
+4317,Borlez,5.245072,50.63298,Liege
+4317,Celles,5.2455346,50.65388,Liege
+4317,Faimes,5.262322,50.66525,Liege
+4317,Les Waleffes,5.2180365,50.64024,Liege
+4317,Viemme,5.2683121,50.64829,Liege
+4340,Awans,5.4620018,50.66697,Liege
+4340,Fooz,5.4376155,50.67625,Liege
+4340,Othée,5.4680939,50.71593,Liege
+4340,Villers-L'evêque,5.4418773,50.70284,Liege
+4342,Hognoul,5.4556394,50.68081,Liege
+4347,Fexhe-Le-Haut-Clocher,5.3985197,50.66608,Liege
+4347,Freloux,5.4066762,50.68033,Liege
+4347,Noville,5.3827164,50.65985,Liege
+4347,Roloux,5.3960063,50.64949,Liege
+4347,Voroux-Goreux,5.4271453,50.6547,Liege
+4350,Lamine,5.333978,50.68908,Liege
+4350,Momalle,5.3730111,50.68523,Liege
+4350,Pousset,5.3034495,50.69564,Liege
+4350,Remicourt,5.3267174,50.68072,Liege
+4351,Hodeige,5.3426579,50.69601,Liege
+4357,Donceel,5.3199408,50.6479,Liege
+4357,Haneffe,5.3192131,50.63871,Liege
+4357,Jeneffe,5.3559477,50.65323,Liege
+4357,Limont,5.3107335,50.66003,Liege
+4360,Bergilers,5.3277139,50.71454,Liege
+4360,Grandville,5.3379451,50.72205,Liege
+4360,Lens-Sur-Geer,5.3537922,50.72145,Liege
+4360,Oreye,5.3530675,50.72917,Liege
+4360,Otrange,5.384458,50.73708,Liege
+4367,Crisnée,5.397318,50.71589,Liege
+4367,Fize-Le-Marsal,5.386298,50.70135,Liege
+4367,Kemexhe,5.4060353,50.69618,Liege
+4367,Odeur,5.4158293,50.70765,Liege
+4367,Thys,5.3894005,50.72253,Liege
+4400,Awirs,5.409295,50.59852,Liege
+4400,Chokier,5.4528969,50.59365,Liege
+4400,Flémalle,5.4580872,50.60228,Liege
+4400,Flémalle-Grande,5.4729319,50.61557,Liege
+4400,Flémalle-Haute,5.4474684,50.60184,Liege
+4400,Ivoz-Ramet,5.4523491,50.58228,Liege
+4400,Mons-Lez-Liege,5.4600597,50.62245,Liege
+4420,Montegnée,5.5190161,50.64257,Liege
+4420,Saint-Nicolas,5.539419,50.63053,Liege
+4420,Tilleur,5.5307061,50.62065,Liege
+4430,Ans,5.5190612,50.66243,Liege
+4431,Loncin,5.502732,50.66515,Liege
+4432,Alleur,5.5129926,50.67425,Liege
+4432,Xhendremael,5.4805775,50.70437,Liege
+4450,Juprelle,5.5290689,50.71069,Liege
+4450,Lantin,5.5234944,50.68796,Liege
+4450,Slins,5.5652092,50.72772,Liege
+4451,Voroux-Lez-Liers,5.552484,50.68763,Liege
+4452,Paifve,5.5241784,50.72801,Liege
+4452,Wihogne,5.5064112,50.72775,Liege
+4453,Villers-Saint-Siméon,5.5434045,50.70978,Liege
+4458,Fexhe-Slins,5.5714611,50.72192,Liege
+4460,Bierset,5.4512607,50.65471,Liege
+4460,Grâce-Berleur,5.501194,50.63233,Liege
+4460,Grâce-Hollogne,5.503152,50.64496,Liege
+4460,Hollogne-Aux-Pierres,5.4757847,50.63859,Liege
+4460,Horion-Hozémont,5.3886713,50.61497,Liege
+4460,Velroux,5.4254194,50.64365,Liege
+4470,Saint-Georges-Sur-Meuse,5.3579041,50.60007,Liege
+4480,Clermont-Sous-Huy,5.3922,50.56905,Liege
+4480,Ehein,5.4444346,50.54451,Liege
+4480,Engis,5.4043113,50.58243,Liege
+4480,Hermalle-Sous-Huy,5.3622542,50.55699,Liege
+4500,Ben-Ahin,5.1773498,50.50332,Liege
+4500,Huy,5.2357453,50.52154,Liege
+4500,Tihange,5.259369,50.52759,Liege
+4520,Antheit,5.2358517,50.5512,Liege
+4520,Bas-Oha,5.1880583,50.5224,Liege
+4520,Huccorgne,5.1647622,50.56759,Liege
+4520,Moha,5.1878867,50.54716,Liege
+4520,Vinalmont,5.2261382,50.56275,Liege
+4520,Wanze,5.2166503,50.53326,Liege
+4530,Fize-Fontaine,5.2835083,50.58498,Liege
+4530,Vaux-Et-Borset,5.23141,50.61315,Liege
+4530,Vieux-Waleffe,5.2044866,50.61618,Liege
+4530,Villers-Le-Bouillet,5.2619239,50.57502,Liege
+4530,Warnant-Dreye,5.2254442,50.59511,Liege
+4537,Bodegnée,5.3041269,50.58579,Liege
+4537,Chapon-Seraing,5.2734472,50.60967,Liege
+4537,Seraing-Le-Château,5.2989318,50.62164,Liege
+4537,Verlaine,5.3184439,50.60751,Liege
+4540,Amay,5.3240992,50.54978,Liege
+4540,Ampsin,5.286736,50.54024,Liege
+4540,FlÃ´ne,5.3354736,50.55824,Liege
+4540,Jehay,5.3202782,50.57549,Liege
+4540,Ombret,5.3371708,50.54428,Liege
+4550,Nandrin,5.4190411,50.50636,Liege
+4550,Saint-Séverin,5.4130878,50.52901,Liege
+4550,Villers-Le-Temple,5.3708571,50.50812,Liege
+4550,Yernée-Fraineux,5.3819538,50.52843,Liege
+4557,Abée,5.3564571,50.47353,Liege
+4557,Fraiture,5.4196671,50.47869,Liege
+4557,Ramelot,5.3286278,50.46445,Liege
+4557,Seny,5.4029395,50.45955,Liege
+4557,Soheit-Tinlot,5.3766541,50.47945,Liege
+4557,Tinlot,5.3786954,50.47774,Liege
+4560,Bois-Et-Borsu,5.3302671,50.39463,Liege
+4560,Clavier,5.3575692,50.41151,Liege
+4560,Les Avins,5.299356,50.41542,Liege
+4560,Ocquier,5.3954539,50.39652,Liege
+4560,Pailhe,5.2579288,50.42297,Liege
+4560,Terwagne,5.3491827,50.44389,Liege
+4570,Marchin,5.2263372,50.48021,Liege
+4570,Vyle-Et-Tharoul,5.2683004,50.44628,Liege
+4577,Modave,5.3017936,50.44161,Liege
+4577,Outrelouxhe,5.335294,50.50423,Liege
+4577,Strée-Lez-Huy,5.3271603,50.49226,Liege
+4577,Vierset-Barse,5.2948879,50.48112,Liege
+4590,Ellemelle,5.442913,50.46642,Liege
+4590,Ouffet,5.4653273,50.43773,Liege
+4590,Warzée,5.427096,50.44879,Liege
+4600,Lanaye,5.6944381,50.78066,Liege
+4600,Lixhe,5.680109,50.75508,Liege
+4600,Richelle,5.695354,50.71714,Liege
+4600,Visé,5.695536,50.73366,Liege
+4601,Argenteau,5.686015,50.69576,Liege
+4602,Cheratte,5.670164,50.68281,Liege
+4606,Saint-André,5.7536486,50.69535,Liege
+4607,Berneau,5.731253,50.74234,Liege
+4607,Bombaye,5.7429371,50.73015,Liege
+4607,Dalhem,5.7229816,50.71393,Liege
+4607,Feneur,5.7138885,50.70418,Liege
+4607,Mortroux,5.7513854,50.71324,Liege
+4608,Neufchâteau,5.7764464,50.71958,Liege
+4608,Warsage,5.773045638,50.73466,Liege
+4610,Bellaire,5.6654685,50.64471,Liege
+4610,Beyne-Heusay,5.6534141,50.62206,Liege
+4610,Queue-Du-Bois,5.6785831,50.63715,Liege
+4620,Fléron,5.6832219,50.61684,Liege
+4621,Retinne,5.6978166,50.6303,Liege
+4623,Magnée,5.6811009,50.60288,Liege
+4624,Romsée,5.6655488,50.60682,Liege
+4630,Ayeneux,5.7147473,50.60876,Liege
+4630,Micheroux,5.7355403,50.63159,Liege
+4630,Soumagne,5.739941,50.61477,Liege
+4630,Tignée,5.7042703,50.6494,Liege
+4631,Evegnée,5.7060994,50.64181,Liege
+4632,Cérexhe-Heuseux,5.7262388,50.65088,Liege
+4633,Melen,5.7370469,50.64608,Liege
+4650,Chaineux,5.8342711,50.63194,Liege
+4650,Grand-Rechain,5.8107674,50.60729,Liege
+4650,Herve,5.7935245,50.63921,Liege
+4650,Julémont,5.7718682,50.68564,Liege
+4651,Battice,5.8194813,50.64827,Liege
+4652,Xhendelesse,5.7726472,50.6037,Liege
+4653,Bolland,5.7594413,50.66141,Liege
+4654,Charneux,5.8048204,50.66912,Liege
+4670,Blégny,5.7252372,50.67272,Liege
+4670,Mortier,5.7432715,50.68218,Liege
+4670,Trembleur,5.7268086,50.69533,Liege
+4671,Barchon,5.6969122,50.66822,Liege
+4671,Housse,5.693985,50.67963,Liege
+4671,Saive,5.6820303,50.65255,Liege
+4672,Saint-Remy,5.700802,50.69584,Liege
+4680,Hermée,5.6186068,50.70875,Liege
+4680,Oupeye,5.6450671,50.70919,Liege
+4681,Hermalle-Sous-Argenteau,5.6808711,50.71054,Liege
+4682,Heure-Le-Romain,5.6295554,50.7317,Liege
+4682,Houtain-Saint-Siméon,5.6104199,50.73918,Liege
+4683,Vivegnis,5.6527071,50.69793,Liege
+4684,Haccourt,5.6667674,50.73398,Liege
+4690,Bassenge,5.6094772,50.75836,Liege
+4690,Boirs,5.5788622,50.75393,Liege
+4690,Eben-Emael,5.6702417,50.79944,Liege
+4690,Glons,5.5398432,50.7519,Liege
+4690,Roclenge-Sur-Geer,5.59407,50.75686,Liege
+4690,Wonck,5.6333621,50.76771,Liege
+4700,Eupen,6.031452,50.63061,Liege
+4701,Kettenis,6.0458005,50.64613,Liege
+4710,Lontzen,6.0073447,50.68042,Liege
+4711,Walhorn,6.0469422,50.67508,Liege
+4720,La Calamine,6.013341,50.7155,Liege
+4721,Neu-Moresnet,6.0240702,50.71999,Liege
+4728,Hergenrath,6.0316891,50.70913,Liege
+4730,Hauset,6.0708402,50.70802,Liege
+4730,Raeren,6.1108404,50.67613,Liege
+4731,Eynatten,6.081697,50.69359,Liege
+4750,Butgenbach,6.2053573,50.42673,Liege
+4750,Elsenborn,6.2213827,50.45731,Liege
+4760,Bullange,6.257827,50.40755,Liege
+4760,Manderfeld,6.3400555,50.33109,Liege
+4761,Rocherath,6.3009381,50.43441,Liege
+4770,Amblève,6.1705559,50.35431,Liege
+4770,Meyerode,6.1884932,50.32884,Liege
+4771,Heppenbach,6.218691,50.36317,Liege
+4780,Recht,6.0431296,50.33493,Liege
+4780,Saint-Vith,6.1258953,50.28039,Liege
+4782,Schoenberg,6.2642498,50.28881,Liege
+4783,Lommersweiler,6.1651484,50.23892,Liege
+4784,Crombach,6.0680547,50.25913,Liege
+4790,Burg-Reuland,6.121679358,50.17478,Liege
+4790,Reuland,6.1362567,50.19541,Liege
+4791,Thommen,6.0743425,50.21906,Liege
+4800,Ensival,5.843182,50.58217,Liege
+4800,Lambermont,5.191001,49.70519,Liege
+4800,Petit-Rechain,5.8341784,50.6143,Liege
+4800,Polleur,5.873929355,50.54291,Liege
+4800,Verviers,5.8638544,50.59323,Liege
+4801,Stembert,5.8952801,50.59311,Liege
+4802,Heusy,5.867539,50.57804,Liege
+4820,Dison,5.854735,50.61137,Liege
+4821,Andrimont,5.8901888,50.43868,Liege
+4830,Limbourg,5.9402987,50.61228,Liege
+4831,Bilstain,5.9212234,50.62354,Liege
+4834,Goé,5.9562188,50.60862,Liege
+4837,Baelen,5.9715011,50.63119,Liege
+4837,Membach,5.9953656,50.61938,Liege
+4840,Welkenraedt,5.9723396,50.66271,Liege
+4841,Henri-Chapelle,5.9318018,50.67682,Liege
+4845,Jalhay,5.9647526,50.55925,Liege
+4845,Sart-Lez-Spa,5.933482,50.51744,Liege
+4850,Montzen,5.9620321,50.70751,Liege
+4850,Moresnet,5.9880362,50.72087,Liege
+4850,Plombières,5.9590725,50.73748,Liege
+4851,Gemmenich,5.9967631,50.74639,Liege
+4851,Sippenaeken,5.9336285,50.7509,Liege
+4852,Hombourg,5.9207511,50.72324,Liege
+4860,Cornesse,5.7910525,50.57479,Liege
+4860,Pepinster,5.8037101,50.56752,Liege
+4860,Wegnez,5.8175559,50.57896,Liege
+4861,Soiron,5.7906072,50.59217,Liege
+4870,Forêt,5.7002354,50.584,Liege
+4870,Fraipont,5.7227768,50.56635,Liege
+4870,Nessonvaux,5.7371309,50.57367,Liege
+4870,Trooz,5.6883726,50.57281,Liege
+4877,Olne,5.7479948,50.59012,Liege
+4880,Aubel,5.8585553,50.70415,Liege
+4890,Clermont,5.883668,50.65897,Liege
+4890,Thimister,5.8650125,50.65295,Liege
+4890,Thimister-Clermont,5.863448646,50.66299,Liege
+4900,Spa,5.8626233,50.49208,Liege
+4910,La Reid,5.7905664,50.48946,Liege
+4910,Polleur,5.873929355,50.54291,Liege
+4910,Theux,5.819895584,50.52586,Liege
+4920,Aywaille,5.6742167,50.47348,Liege
+4920,Ernonheid,5.6660069,50.40285,Liege
+4920,Harzé,5.6672743,50.44091,Liege
+4920,Louveigné,5.7172478,50.52484,Liege
+4950,Faymonville,6.1407071,50.4054,Liege
+4950,Robertville,6.1224661,50.45503,Liege
+4950,Sourbrodt,6.1143694,50.47725,Liege
+4950,Waimes,6.1117543,50.41491,Liege
+4960,Bevercé,6.0391879,50.44153,Liege
+4960,Malmedy,6.0266001,50.42399,Liege
+4970,Francorchamps,5.952833,50.45316,Liege
+4970,Stavelot,5.9308362,50.39408,Liege
+4980,Fosse,5.8378154,50.33885,Liege
+4980,Trois-Ponts,5.8704355,50.3727,Liege
+4980,Wanne,5.9213974,50.35573,Liege
+4983,Basse-Bodeux,5.826789,50.35797,Liege
+4987,Chevron,5.7299282,50.38196,Liege
+4987,La Gleize,5.8459307,50.41285,Liege
+4987,Lorcé,5.7321495,50.41453,Liege
+4987,Rahier,5.7786187,50.38604,Liege
+4987,Stoumont,5.80836,50.40695,Liege
+4990,Arbrefontaine,5.8353999,50.30126,Liege
+4990,Bra,5.7309407,50.3209,Liege
+4990,Lierneux,5.7920929,50.28574,Liege
+5000,Beez,4.9219558,50.46873,Namur
+5000,Namur,4.849314652,50.4562,Namur
+5001,Belgrade,4.822295852,50.46923,Namur
+5002,Saint-Servais,4.835126618,50.48142,Namur
+5003,Saint-Marc,4.846958713,50.49487,Namur
+5004,Bouge,4.891664451,50.47887,Namur
+5020,Champion,4.903511212,50.49863,Namur
+5020,Daussoulx,4.876984728,50.51724,Namur
+5020,Flawinne,4.8120768,50.4566,Namur
+5020,Malonne,4.7966661,50.43825,Namur
+5020,Suarlée,4.778026856,50.4883,Namur
+5020,Temploux,4.7509248,50.48298,Namur
+5020,Vedrin,4.8742389,50.50196,Namur
+5021,Boninne,4.929190352,50.4924,Namur
+5022,Cognelée,4.912729384,50.51719,Namur
+5024,Gelbressée,4.957828727,50.51138,Namur
+5024,Marche-Les-Dames,4.9615056,50.48645,Namur
+5030,Beuzet,4.7481633,50.53298,Namur
+5030,Ernage,4.6739886,50.5942,Namur
+5030,Gembloux,4.698693303,50.5622,Namur
+5030,Grand-Manil,4.683029,50.55692,Namur
+5030,Lonzée,4.7273547,50.55335,Namur
+5030,Sauvenière,4.7248074,50.58106,Namur
+5031,Grand-Leez,4.760959338,50.57821,Namur
+5032,Bossière,4.691994607,50.52341,Namur
+5032,Bothey,4.6524505,50.52182,Namur
+5032,Corroy-Le-Château,4.6546979,50.53597,Namur
+5032,Isnes,4.7406918,50.51052,Namur
+5032,Mazy,4.6745108,50.51277,Namur
+5060,Arsimont,4.6388177,50.42735,Namur
+5060,Auvelais,4.6354624,50.44702,Namur
+5060,Falisolle,4.621259,50.41825,Namur
+5060,Keumiée,4.5960062,50.46551,Namur
+5060,Moignelée,4.5885625,50.43784,Namur
+5060,Sambreville,4.6196692,50.44098,Namur
+5060,Tamines,4.607595,50.4341,Namur
+5060,Velaine-Sur-Sambre,4.60725,50.47133,Namur
+5070,Aisemont,4.6513189,50.40486,Namur
+5070,Fosses-La-Ville,4.6978935,50.39595,Namur
+5070,Le Roux,4.6237797,50.38854,Namur
+5070,Sart-Eustache,4.5998195,50.37607,Namur
+5070,Sart-Saint-Laurent,4.7411668,50.40272,Namur
+5070,Vitrival,4.6558828,50.39416,Namur
+5080,Emines,4.827956079,50.51573,Namur
+5080,La Bruyère,5.7266989,50.41339,Namur
+5080,Rhisnes,4.790970028,50.50059,Namur
+5080,Villers-Lez-Heest,4.834569148,50.53792,Namur
+5080,Warisoulx,4.858782322,50.53482,Namur
+5081,Bovesse,4.778702219,50.5144,Namur
+5081,Meux,4.798677454,50.55256,Namur
+5100,Dave,4.904300428,50.41109,Namur
+5100,Jambes,4.878529424,50.45888,Namur
+5100,Naninne,4.93167035,50.41461,Namur
+5100,Wépion,4.8633768,50.4213,Namur
+5100,Wierde,4.949744593,50.42863,Namur
+5101,Erpent,4.909451533,50.4474,Namur
+5101,Lives-Sur-Meuse,4.938405926,50.47133,Namur
+5101,Loyers,4.940979517,50.4581,Namur
+5140,Boignée,4.6119938,50.50184,Namur
+5140,Ligny,4.5757572,50.51263,Namur
+5140,Sombreffe,4.6025925,50.52466,Namur
+5140,Tongrinne,4.623887,50.51573,Namur
+5150,Floreffe,4.758878,50.43481,Namur
+5150,Floriffoux,4.7694348,50.45158,Namur
+5150,Franière,4.7317891,50.43891,Namur
+5150,Soye,4.730789,50.44948,Namur
+5170,Arbre,4.820627,50.36553,Namur
+5170,Bois-De-Villers,4.823377,50.38997,Namur
+5170,Lesve,4.7748094,50.37735,Namur
+5170,Lustin,4.8965971,50.37931,Namur
+5170,Profondeville,4.8694363,50.37765,Namur
+5170,Rivière,4.8724268,50.35807,Namur
+5190,Balâtre,4.6382422,50.49831,Namur
+5190,Ham-Sur-Sambre,4.6734915,50.44449,Namur
+5190,Jemeppe-Sur-Sambre,4.654598601,50.463,Namur
+5190,Mornimont,4.7043344,50.45551,Namur
+5190,Moustier-Sur-Sambre,4.6967162,50.46605,Namur
+5190,Onoz,4.6696856,50.49234,Namur
+5190,Saint-Martin,4.6472621,50.50084,Namur
+5190,Spy,4.7027047,50.48117,Namur
+5300,Andenne,5.1043923,50.49009,Namur
+5300,Bonneville,5.0338525,50.47093,Namur
+5300,Coutisse,5.1169603,50.46366,Namur
+5300,Landenne,5.0646275,50.51425,Namur
+5300,Maizeret,4.978173,50.45985,Namur
+5300,Namêche,4.9947316,50.47125,Namur
+5300,Sclayn,5.0284735,50.48971,Namur
+5300,Seilles,5.0805501,50.49842,Namur
+5300,Thon,5.0133577,50.46416,Namur
+5300,Vezin,5.0114611,50.4966,Namur
+5310,Aische-En-Refail,4.8359955,50.59887,Namur
+5310,Bolinne,4.9299565,50.60035,Namur
+5310,Boneffe,4.957465,50.62387,Namur
+5310,Branchon,4.971969,50.62969,Namur
+5310,Dhuy,4.8573789,50.55968,Namur
+5310,Eghezée,4.9049523,50.59174,Namur
+5310,Hanret,4.9440702,50.5835,Namur
+5310,Leuze,4.9103111,50.56056,Namur
+5310,Liernu,4.8311032,50.58211,Namur
+5310,Longchamps,4.8962185,50.57729,Namur
+5310,Mehaigne,4.8762345,50.59422,Namur
+5310,Noville-Sur-Méhaigne,4.8909225,50.60821,Namur
+5310,Saint-Germain,4.8427332,50.57306,Namur
+5310,Taviers,4.9318579,50.61706,Namur
+5310,Upigny,4.8653991,50.57561,Namur
+5310,Waret-La-Chaussée,4.9217571,50.54171,Namur
+5330,Assesse,5.0233625,50.37042,Namur
+5330,Maillen,4.9699385,50.37755,Namur
+5330,Sart-Bernard,4.9506941,50.40516,Namur
+5332,Crupet,4.9581149,50.34686,Namur
+5333,Sorinne-La-Longue,5.0294375,50.38969,Namur
+5334,Florée,5.0704373,50.37308,Namur
+5336,Courrière,4.9845433,50.3783,Namur
+5340,Faulx-Les-Tombes,5.0191438,50.42729,Namur
+5340,Gesves,5.0776175,50.40285,Namur
+5340,Haltinne,5.0744138,50.45086,Namur
+5340,Mozet,4.9846704,50.44164,Namur
+5340,Sorée,5.1258806,50.40018,Namur
+5350,Evelette,5.171436,50.41358,Namur
+5350,Ohey,5.1238439,50.43591,Namur
+5351,Haillot,5.1491871,50.4406,Namur
+5353,Goesnes,5.2217845,50.4401,Namur
+5354,Jallet,5.1821601,50.44326,Namur
+5360,Hamois,5.1594475,50.34087,Namur
+5360,Natoye,5.0562173,50.34136,Namur
+5361,Mohiville,5.1923275,50.31767,Namur
+5361,Scy,5.2094413,50.30792,Namur
+5362,Achet,5.1751963,50.33348,Namur
+5363,Emptinne,5.1212547,50.32539,Namur
+5364,Schaltin,5.1237159,50.3579,Namur
+5370,Barvaux-Condroz,5.2607234,50.32912,Namur
+5370,Flostoy,5.1845059,50.38838,Namur
+5370,Havelange,5.23958,50.38709,Namur
+5370,Jeneffe,5.2451952,50.35633,Namur
+5370,Porcheresse,5.2408578,50.33843,Namur
+5370,Verlée,5.2795649,50.36754,Namur
+5372,Méan,5.333856,50.36192,Namur
+5374,Maffe,5.3125869,50.35335,Namur
+5376,Miécret,5.24941,50.36569,Namur
+5377,Baillonville,5.338213,50.28876,Namur
+5377,Bonsin,5.3788758,50.37274,Namur
+5377,Heure,5.2963125,50.29453,Namur
+5377,Hogne,5.279464,50.24859,Namur
+5377,Nettinne,5.2612996,50.29104,Namur
+5377,Noiseux,5.3737372,50.29766,Namur
+5377,Sinsin,5.2623625,50.27573,Namur
+5377,Somme-Leuze,5.3669021,50.33659,Namur
+5377,Waillet,5.304196,50.26058,Namur
+5380,Bierwart,5.0360917,50.55805,Namur
+5380,Cortil-Wodon,4.958369,50.56732,Namur
+5380,Fernelmont,4.9746742,50.54812,Namur
+5380,Forville,5.0006655,50.57464,Namur
+5380,Franc-Waret,4.9759589,50.52108,Namur
+5380,Hemptinne,4.9869761,50.60104,Namur
+5380,Hingeon,5.008801,50.52449,Namur
+5380,Marchovelette,4.9411438,50.52319,Namur
+5380,Noville-Les-Bois,4.982708,50.55558,Namur
+5380,Pontillas,5.01707,50.55006,Namur
+5380,Tillier,4.946342,50.54429,Namur
+5500,Anseremme,4.907923,50.23791,Namur
+5500,Bouvignes-Sur-Meuse,4.8984129,50.27257,Namur
+5500,Dinant,4.91242,50.26082,Namur
+5500,Dréhance,4.9388148,50.23683,Namur
+5500,Falmagne,4.8971396,50.20031,Namur
+5500,Falmignoul,4.8924373,50.20379,Namur
+5500,Furfooz,4.9584822,50.22334,Namur
+5501,Lisogne,4.9715412,50.28143,Namur
+5502,Thynes,4.9882689,50.27982,Namur
+5503,Sorinnes,4.982409,50.26016,Namur
+5504,Foy-Notre-Dame,4.9897127,50.24718,Namur
+5520,Anthée,4.7604034,50.23953,Namur
+5520,Onhaye,4.840864,50.24357,Namur
+5521,Serville,4.7806526,50.25008,Namur
+5522,Falaen,4.793357,50.27822,Namur
+5523,Sommière,4.8454743,50.27494,Namur
+5523,Weillen,4.8245344,50.25964,Namur
+5524,Gerin,4.8158102,50.24529,Namur
+5530,Dorinne,4.97325,50.31734,Namur
+5530,Durnal,4.9857278,50.33808,Namur
+5530,Evrehailles,4.9125689,50.32028,Namur
+5530,Godinne,4.875987,50.35053,Namur
+5530,Houx,4.8978933,50.30319,Namur
+5530,Mont,5.7909538,50.53416,Namur
+5530,Purnode,4.9455473,50.31429,Namur
+5530,Spontin,5.006949,50.32262,Namur
+5530,Yvoir,4.8806618,50.32644,Namur
+5537,Anhée,4.8796936,50.31078,Namur
+5537,Annevoie-Rouillon,4.841866,50.3431,Namur
+5537,Bioul,4.7976225,50.33356,Namur
+5537,Denée,4.7512903,50.31796,Namur
+5537,Haut-Le-Wastia,4.8417104,50.30532,Namur
+5537,Sosoye,4.7815722,50.29558,Namur
+5537,Warnant,4.836084,50.32382,Namur
+5540,Hastière,4.822554187,50.19736,Namur
+5540,Hastière-Lavaux,4.8242423,50.21654,Namur
+5540,Hermeton-Sur-Meuse,4.8189189,50.19671,Namur
+5540,Waulsort,4.8632452,50.20329,Namur
+5541,Hastière-Par-Delà,4.8294854,50.21508,Namur
+5542,Blaimont,4.8352693,50.19222,Namur
+5543,Heer,4.831747,50.1617,Namur
+5544,Agimont,4.7942801,50.16421,Namur
+5550,Alle,4.9726784,49.84212,Namur
+5550,Bagimont,4.8751221,49.8242,Namur
+5550,Bohan,4.8860106,49.86422,Namur
+5550,Chairière,4.9489546,49.86123,Namur
+5550,Laforet,4.9294849,49.86391,Namur
+5550,Membre,4.9002694,49.86554,Namur
+5550,Mouzaive,4.9620137,49.85346,Namur
+5550,Nafraiture,4.9172157,49.91065,Namur
+5550,Orchimont,4.9274653,49.89368,Namur
+5550,Pussemange,4.8697858,49.81108,Namur
+5550,Sugny,4.9032847,49.814,Namur
+5550,Vresse-Sur-Semois,4.9340633,49.87298,Namur
+5555,Baillamont,5.0267634,49.89945,Namur
+5555,Bellefontaine,4.973101,49.9177,Namur
+5555,Bièvre,5.0168496,49.94112,Namur
+5555,Cornimont,4.9979774,49.86261,Namur
+5555,Graide,5.0674675,49.95143,Namur
+5555,Gros-Fays,4.9830915,49.86952,Namur
+5555,Monceau-En-Ardenne,4.9859857,49.90465,Namur
+5555,Naomé,5.0894297,49.92262,Namur
+5555,Oizy,5.0089274,49.89349,Namur
+5555,Petit-Fays,4.9675442,49.90157,Namur
+5560,Ciergnon,5.0899109,50.16665,Namur
+5560,Finnevaux,4.9452635,50.15817,Namur
+5560,Houyet,5.0051364,50.19006,Namur
+5560,Hulsonniaux,4.947825,50.20158,Namur
+5560,Mesnil-Eglise,4.9616357,50.16357,Namur
+5560,Mesnil-Saint-Blaise,4.8854633,50.16718,Namur
+5561,Celles,5.0058339,50.23126,Namur
+5562,Custinne,5.0484175,50.21177,Namur
+5563,Hour,5.0372408,50.16131,Namur
+5564,Wanlin,5.061512,50.15934,Namur
+5570,Baronville,4.9468551,50.12622,Namur
+5570,Beauraing,4.9576144,50.11052,Namur
+5570,Dion,4.8883798,50.11782,Namur
+5570,Felenne,4.8490158,50.06807,Namur
+5570,Feschaux,4.910576,50.15093,Namur
+5570,Honnay,5.0123245,50.06663,Namur
+5570,Javingue,4.9187569,50.1019,Namur
+5570,Vonêche,4.9800374,50.06087,Namur
+5570,Wancennes,4.961015,50.09204,Namur
+5570,Winenne,4.8930998,50.09802,Namur
+5571,Wiesme,4.9767431,50.14878,Namur
+5572,Focant,5.0408552,50.13145,Namur
+5573,Martouzin-Neuville,5.003949,50.11761,Namur
+5574,PondrÃ´me,5.008842,50.09961,Namur
+5575,Bourseigne-Neuve,4.855026,50.02507,Namur
+5575,Bourseigne-Vieille,4.871198,50.0221,Namur
+5575,Gedinne,4.9388966,49.97927,Namur
+5575,Houdremont,4.9445943,49.94204,Namur
+5575,Louette-Saint-Denis,4.9572488,49.95891,Namur
+5575,Louette-Saint-Pierre,4.9276767,49.96015,Namur
+5575,Malvoisin,4.9609972,50.01215,Namur
+5575,Patignies,4.9521201,49.99998,Namur
+5575,Rienne,4.8847815,49.99225,Namur
+5575,Sart-Custinne,4.9175574,50.00145,Namur
+5575,Vencimont,4.9198406,50.03237,Namur
+5575,Willerzie,4.8475671,49.98741,Namur
+5576,Froidfontaine,5.000634,50.0604,Namur
+5580,Ave-Et-Auffe,5.153085776,50.11195,Namur
+5580,Buissonville,5.1958839,50.21722,Namur
+5580,Eprave,5.171352525,50.15027,Namur
+5580,Han-Sur-Lesse,5.1877385,50.12545,Namur
+5580,Jemelle,5.2624584,50.16243,Namur
+5580,Lessive,5.145808782,50.138,Namur
+5580,Mont-Gauthier,5.120824,50.20928,Namur
+5580,Rochefort,5.214031151,50.17258,Namur
+5580,Villers-Sur-Lesse,5.105028739,50.14428,Namur
+5580,Wavreille,5.241923674,50.11639,Namur
+5590,Achêne,5.0458772,50.26686,Namur
+5590,Braibant,5.0629626,50.31291,Namur
+5590,Chevetogne,5.1188335,50.2238,Namur
+5590,Ciney,5.0974251,50.29496,Namur
+5590,Conneux,5.0603857,50.24962,Namur
+5590,Haversin,5.208871,50.25311,Namur
+5590,Leignon,5.1102616,50.26874,Namur
+5590,Pessoux,5.1707753,50.28255,Namur
+5590,Serinchamps,5.2343634,50.23193,Namur
+5590,Sovet,5.0349178,50.2963,Namur
+5600,Fagnolle,4.5703749,50.10502,Namur
+5600,Franchimont,4.6393972,50.19005,Namur
+5600,Jamagne,4.531286,50.2181,Namur
+5600,Jamiolle,4.5079027,50.21224,Namur
+5600,Merlemont,4.6072911,50.17287,Namur
+5600,Neuville,5.7242282,50.38684,Namur
+5600,Omezée,4.6995791,50.19333,Namur
+5600,Philippeville,4.5449033,50.19559,Namur
+5600,Roly,4.5381501,50.13565,Namur
+5600,Romedenne,4.6979645,50.17241,Namur
+5600,Samart,4.534019,50.17794,Namur
+5600,Sart-En-Fagne,4.6199447,50.15792,Namur
+5600,Sautour,4.5612425,50.1694,Namur
+5600,Surice,4.6962604,50.18246,Namur
+5600,Villers-En-Fagne,4.5846227,50.14579,Namur
+5600,Villers-Le-Gambon,4.6084845,50.19046,Namur
+5600,Vodecée,4.5920788,50.1972,Namur
+5620,Corenne,4.6792792,50.25195,Namur
+5620,Flavion,4.7134091,50.24962,Namur
+5620,Florennes,4.6030187,50.25142,Namur
+5620,Hemptinne-Lez-Florennes,4.5631279,50.22827,Namur
+5620,Morville,4.7440112,50.233,Namur
+5620,Rosée,4.6876566,50.2323,Namur
+5620,Saint-Aubin,4.5778492,50.24693,Namur
+5621,Hanzinelle,4.5607099,50.29499,Namur
+5621,Hanzinne,4.5435524,50.30847,Namur
+5621,Morialmé,4.5634203,50.27764,Namur
+5630,Cerfontaine,4.4125932,50.16878,Namur
+5630,Daussois,4.455439,50.21883,Namur
+5630,Senzeille,4.466208,50.17628,Namur
+5630,Silenrieux,4.4103561,50.22513,Namur
+5630,Soumoy,4.4366472,50.18969,Namur
+5630,Villers-Deux-Eglises,4.4827391,50.1897,Namur
+5640,Biesme,4.6073303,50.33465,Namur
+5640,Biesmerée,4.6803521,50.29738,Namur
+5640,Graux,4.7203188,50.3256,Namur
+5640,Mettet,4.6584949,50.32121,Namur
+5640,Oret,4.615806,50.30041,Namur
+5640,Saint-Gérard,4.7395306,50.34634,Namur
+5641,Furnaux,4.7055271,50.308,Namur
+5644,Ermeton-Sur-Biert,4.7197934,50.29754,Namur
+5646,Stave,4.6590441,50.28282,Namur
+5650,Castillon,4.3528279,50.24728,Namur
+5650,Chastrès,4.4592009,50.26491,Namur
+5650,Clermont,4.3173399,50.25989,Namur
+5650,Fontenelle,4.3827342,50.24901,Namur
+5650,Fraire,4.5081639,50.26138,Namur
+5650,Pry,4.4326804,50.27381,Namur
+5650,Vogenée,4.4523592,50.2399,Namur
+5650,Walcourt,4.4347509,50.2532,Namur
+5650,Yves-Gomezée,4.4947935,50.23926,Namur
+5651,Berzée,4.4012206,50.28924,Namur
+5651,Gourdinne,4.456597,50.28996,Namur
+5651,Laneffe,4.4950207,50.27784,Namur
+5651,Rognée,4.3892146,50.26915,Namur
+5651,Somzée,4.4829777,50.29516,Namur
+5651,Tarcienne,4.4983015,50.31193,Namur
+5651,Thy-Le-Château,4.4278716,50.2827,Namur
+5660,Aublain,4.4090395,50.06723,Namur
+5660,Boussu-En-Fagne,4.4710191,50.07548,Namur
+5660,Brûly,4.5296813,49.96959,Namur
+5660,Brûly-De-Pesche,4.4602842,50.00092,Namur
+5660,Couvin,4.4955009,50.05249,Namur
+5660,Cul-Des-Sarts,4.4549981,49.96154,Namur
+5660,Dailly,4.4360525,50.05775,Namur
+5660,Frasnes,4.5105493,50.07961,Namur
+5660,Gonrieux,4.4236449,50.0374,Namur
+5660,Mariembourg,4.5233186,50.09413,Namur
+5660,Pesche,4.4584819,50.04313,Namur
+5660,Petigny,4.5324267,50.05838,Namur
+5660,Petite-Chapelle,4.505529,49.94979,Namur
+5660,Presgaux,4.4206168,50.02479,Namur
+5670,Dourbes,4.59145,50.09136,Namur
+5670,Le Mesnil,4.6712991,50.03087,Namur
+5670,Mazée,4.6964875,50.10088,Namur
+5670,Nismes,4.5486173,50.07453,Namur
+5670,Oignies-En-Thiérache,4.6396988,50.02372,Namur
+5670,Olloy-Sur-Viroin,4.607218,50.07268,Namur
+5670,Treignes,4.6692715,50.09227,Namur
+5670,Vierves-Sur-Viroin,4.634249,50.08027,Namur
+5670,Viroinval,4.6270287,50.05164,Namur
+5680,Doische,4.7458219,50.13572,Namur
+5680,Gimnée,4.7141334,50.1316,Namur
+5680,Gochenée,4.7597215,50.18419,Namur
+5680,Matagne-La-Grande,4.6236448,50.11713,Namur
+5680,Matagne-La-Petite,4.6468816,50.1186,Namur
+5680,Niverlée,4.7026857,50.11776,Namur
+5680,Romerée,4.6748777,50.13522,Namur
+5680,Soulme,4.7367955,50.18734,Namur
+5680,Vaucelles,4.7424981,50.11317,Namur
+5680,Vodelée,4.7323157,50.17024,Namur
+6000,Charleroi,4.449165,50.41571,Hainaut
+6001,Marcinelle,4.4442531,50.39772,Hainaut
+6010,Couillet,4.468631,50.39122,Hainaut
+6020,Dampremy,4.4322464,50.41862,Hainaut
+6030,Goutroux,4.361194615,50.41684,Hainaut
+6030,Marchienne-Au-Pont,4.3960065,50.40671,Hainaut
+6031,Monceau-Sur-Sambre,4.382402,50.41702,Hainaut
+6032,Mont-Sur-Marchienne,4.4046365,50.3902,Hainaut
+6040,Jumet,4.436023275,50.44466,Hainaut
+6041,Gosselies,4.4301757,50.46538,Hainaut
+6042,Lodelinsart,4.4489421,50.43185,Hainaut
+6043,Ransart,4.481573078,50.45616,Hainaut
+6044,Roux,4.390775827,50.4415,Hainaut
+6060,Gilly,4.485649013,50.42697,Hainaut
+6061,Montignies-Sur-Sambre,4.472923486,50.41092,Hainaut
+6110,Montigny-Le-Tilleul,4.360231481,50.36907,Hainaut
+6111,Landelies,4.3496404,50.37782,Hainaut
+6120,Cour-Sur-Heure,4.3868963,50.29747,Hainaut
+6120,Ham-Sur-Heure,4.3889214,50.32199,Hainaut
+6120,Jamioulx,4.4127635,50.35287,Hainaut
+6120,Marbaix,4.3713936,50.32681,Hainaut
+6120,Nalinnes,4.4466922,50.32495,Hainaut
+6140,Fontaine-L'evêque,4.323963793,50.41122,Hainaut
+6141,Forchies-La-Marche,4.3198191,50.43838,Hainaut
+6142,Leernes,4.3307851,50.39744,Hainaut
+6150,Anderlues,4.2696102,50.408,Hainaut
+6180,Courcelles,4.3763406,50.46016,Hainaut
+6181,Gouy-Lez-Piéton,4.3287132,50.48756,Hainaut
+6182,Souvret,4.350827,50.451,Hainaut
+6183,Trazegnies,4.3317415,50.46653,Hainaut
+6200,Bouffioulx,4.5151961,50.39021,Hainaut
+6200,Châtelet,4.5243511,50.40461,Hainaut
+6200,Châtelineau,4.5179328,50.41559,Hainaut
+6210,Frasnes-Lez-Gosselies,4.4501525,50.53765,Hainaut
+6210,Les Bons Villers,4.425258813,50.53496,Hainaut
+6210,Rèves,4.405473566,50.54373,Hainaut
+6210,Villers-Perwin,4.4783773,50.5262,Hainaut
+6210,Wayaux,4.4723314,50.48963,Hainaut
+6211,Mellet,4.4782006,50.50462,Hainaut
+6220,Fleurus,4.544654533,50.47195,Hainaut
+6220,Heppignies,4.4935448,50.48171,Hainaut
+6220,Lambusart,4.557919897,50.45473,Hainaut
+6220,Wangenies,4.519112,50.47767,Hainaut
+6221,Saint-Amand,4.531923804,50.51117,Hainaut
+6222,Brye,4.561356496,50.53007,Hainaut
+6223,Wagnelée,4.52731102,50.52262,Hainaut
+6224,Wanfercée-Baulet,4.581627406,50.47584,Hainaut
+6230,Buzet,4.371309718,50.53893,Hainaut
+6230,Obaix,4.340132224,50.5344,Hainaut
+6230,Pont-à-Celles,4.362297294,50.50432,Hainaut
+6230,Thiméon,4.430678462,50.48428,Hainaut
+6230,Viesville,4.403029978,50.49063,Hainaut
+6238,Liberchies,4.424383094,50.51524,Hainaut
+6238,Luttre,4.388881712,50.51456,Hainaut
+6240,Farciennes,4.553041,50.42732,Hainaut
+6240,Pironchamps,4.526056,50.42859,Hainaut
+6250,Aiseau,4.5870152,50.41112,Hainaut
+6250,Aiseau-Presles,4.584081,50.40652,Hainaut
+6250,Pont-De-Loup,4.5459892,50.41737,Hainaut
+6250,Presles,4.5786617,50.38501,Hainaut
+6250,Roselies,4.5728849,50.42891,Hainaut
+6280,Acoz,4.5323568,50.35881,Hainaut
+6280,Gerpinnes,4.5276771,50.33782,Hainaut
+6280,Gougnies,4.5771625,50.35444,Hainaut
+6280,Joncret,4.5125952,50.35281,Hainaut
+6280,Loverval,4.47342,50.375,Hainaut
+6280,Villers-Poterie,4.547498,50.3513,Hainaut
+6440,Boussu-Lez-Walcourt,4.3767743,50.22628,Hainaut
+6440,Fourbechies,4.3166667,50.16667,Hainaut
+6440,Froidchapelle,4.3269129,50.15116,Hainaut
+6440,Vergnies,4.3059105,50.19861,Hainaut
+6441,Erpion,4.3512321,50.21189,Hainaut
+6460,Bailièvre,4.238617,50.06928,Hainaut
+6460,Chimay,4.3173338,50.04793,Hainaut
+6460,Robechies,4.278378,50.0728,Hainaut
+6460,Saint-Remy,4.309222,50.05035,Hainaut
+6460,Salles,4.247403,50.05601,Hainaut
+6460,Villers-La-Tour,4.26287,50.03537,Hainaut
+6461,Virelles,4.3329805,50.0648,Hainaut
+6462,Vaulx-Lez-Chimay,4.363579,50.06111,Hainaut
+6463,Lompret,4.3790041,50.06421,Hainaut
+6464,Baileux,4.3755329,50.02985,Hainaut
+6464,Bourlers,4.341293,50.02736,Hainaut
+6464,Forges,4.3211041,50.02258,Hainaut
+6464,L'escaillère,4.431664,49.94725,Hainaut
+6464,Rièzes,4.368311,49.96082,Hainaut
+6470,Grandrieu,4.1714631,50.20052,Hainaut
+6470,Montbliart,4.224365,50.13445,Hainaut
+6470,Rance,4.2731851,50.14301,Hainaut
+6470,Sautin,4.226143,50.16382,Hainaut
+6470,Sivry,4.1792797,50.1679,Hainaut
+6470,Sivry-Rance,4.1899982,50.164,Hainaut
+6500,BarbenÃ§on,4.2859259,50.22069,Hainaut
+6500,Beaumont,4.2383115,50.23553,Hainaut
+6500,Leugnies,4.196155,50.22464,Hainaut
+6500,Leval-Chaudeville,4.2289677,50.23494,Hainaut
+6500,Renlies,4.2670432,50.18993,Hainaut
+6500,Solre-Saint-Géry,4.246304,50.21625,Hainaut
+6500,Thirimont,4.2364418,50.26081,Hainaut
+6511,Strée,4.2980462,50.27663,Hainaut
+6530,Leers-Et-Fosteau,4.244767,50.30416,Hainaut
+6530,Thuin,4.2870475,50.33974,Hainaut
+6531,Biesme-Sous-Thuin,4.3079897,50.32072,Hainaut
+6532,Ragnies,4.2837674,50.3082,Hainaut
+6533,Biercée,4.2591396,50.32509,Hainaut
+6534,Gozée,4.3515595,50.33323,Hainaut
+6536,Donstiennes,4.3119991,50.28542,Hainaut
+6536,Thuillies,4.329007,50.29473,Hainaut
+6540,Lobbes,4.2654874,50.34602,Hainaut
+6540,Mont-Sainte-Geneviève,4.2377392,50.37662,Hainaut
+6542,Sars-La-Buissière,4.209803,50.33525,Hainaut
+6543,Bienne-Lez-Happart,4.2155807,50.35121,Hainaut
+6560,Bersillies-L'abbaye,4.1520931,50.26319,Hainaut
+6560,Erquelinnes,4.1241436,50.31022,Hainaut
+6560,Grand-Reng,4.0705909,50.32876,Hainaut
+6560,Hantes-Wihéries,4.1783639,50.30576,Hainaut
+6560,Montignies-Saint-Christophe,4.1884975,50.28157,Hainaut
+6560,Solre-Sur-Sambre,4.1558267,50.30677,Hainaut
+6567,Fontaine-Valmont,4.2137302,50.32081,Hainaut
+6567,Labuissière,4.194796,50.31416,Hainaut
+6567,Merbes-Le-Château,4.1644816,50.3234,Hainaut
+6567,Merbes-Sainte-Marie,4.1711042,50.3552,Hainaut
+6590,Momignies,4.1649981,50.02863,Hainaut
+6591,Macon,4.2096331,50.05212,Hainaut
+6592,Monceau-Imbrechies,4.224118,50.03645,Hainaut
+6593,Macquenoise,4.1802891,49.97554,Hainaut
+6594,Beauwelz,4.156972,50.01537,Hainaut
+6596,Forge-Philippe,4.2520681,49.96543,Hainaut
+6596,Seloignes,4.255615,50.01609,Hainaut
+6600,Bastogne,5.7153203,50.001,Luxembourg
+6600,Longvilly,5.8368151,50.02495,Luxembourg
+6600,Noville,5.7616864,50.06517,Luxembourg
+6600,Villers-La-Bonne-Eau,5.7477792,49.93456,Luxembourg
+6600,Wardin,5.7857948,49.99023,Luxembourg
+6630,Martelange,5.7376366,49.83133,Luxembourg
+6637,Fauvillers,5.665031,49.85093,Luxembourg
+6637,Hollange,5.6881541,49.90645,Luxembourg
+6637,Tintange,5.7518438,49.87864,Luxembourg
+6640,Hompré,5.6866728,49.94378,Luxembourg
+6640,Morhet,5.5824265,49.9576,Luxembourg
+6640,Nives,5.602746,49.91214,Luxembourg
+6640,Sibret,5.6352461,49.96828,Luxembourg
+6640,Vaux-Lez-Rosières,5.5705339,49.91336,Luxembourg
+6640,Vaux-Sur-Sûre,5.59082856,49.90876,Luxembourg
+6642,Juseret,5.5493342,49.88052,Luxembourg
+6660,Houffalize,5.7886928,50.13238,Luxembourg
+6660,Nadrin,5.6807442,50.16118,Luxembourg
+6661,Mont,5.7909538,50.53416,Luxembourg
+6661,Tailles,5.7447558,50.2272,Luxembourg
+6662,Tavigny,5.837773,50.10815,Luxembourg
+6663,Mabompré,5.7384527,50.09893,Luxembourg
+6666,Wibrin,5.7156009,50.16612,Luxembourg
+6670,Gouvy,5.9549305,50.19079,Luxembourg
+6670,Limerlé,5.939376899,50.16086,Luxembourg
+6671,Bovigny,5.9182421,50.22442,Luxembourg
+6672,Beho,5.9972692,50.22037,Luxembourg
+6673,Cherain,5.8646609,50.18067,Luxembourg
+6674,Montleban,5.8288862,50.1876,Luxembourg
+6680,Amberloup,5.5272931,50.0293,Luxembourg
+6680,Sainte-Ode,5.5245094,50.03629,Luxembourg
+6680,Tillet,5.5297763,50.00979,Luxembourg
+6681,Lavacherie,5.5136455,50.05232,Luxembourg
+6686,Flamierge,5.6038758,50.03335,Luxembourg
+6687,Bertogne,5.6675577,50.08429,Luxembourg
+6688,Longchamps,5.6892466,50.05354,Luxembourg
+6690,Bihain,5.8082072,50.23902,Luxembourg
+6690,Vielsalm,5.9170187,50.28837,Luxembourg
+6692,Petit-Thier,5.9672766,50.30745,Luxembourg
+6698,Grand-Halleux,5.9072517,50.32628,Luxembourg
+6700,Arlon,5.811919,49.68276,Luxembourg
+6700,Bonnert,5.8190143,49.71077,Luxembourg
+6700,Heinsch,5.7464566,49.70075,Luxembourg
+6700,Toernich,5.7795299,49.65124,Luxembourg
+6704,Guirsch,5.853381,49.71936,Luxembourg
+6706,Autelbas,5.8675666,49.64996,Luxembourg
+6717,Attert,5.7872217,49.7515,Luxembourg
+6717,Nobressart,5.7187077,49.73993,Luxembourg
+6717,Nothomb,5.7861375,49.77175,Luxembourg
+6717,Thiaumont,5.7291343,49.716,Luxembourg
+6717,Tontelange,5.8099377,49.72664,Luxembourg
+6720,Habay,5.593251433,49.73558,Luxembourg
+6720,Habay-La-Neuve,5.6503942,49.72861,Luxembourg
+6720,Hachy,5.6805003,49.70155,Luxembourg
+6721,Anlier,5.620414,49.77208,Luxembourg
+6723,Habay-La-Vieille,5.6225107,49.72284,Luxembourg
+6724,Houdemont,5.5843337,49.7189,Luxembourg
+6724,Rulles,5.558116,49.7181,Luxembourg
+6730,Bellefontaine,5.4979103,49.66495,Luxembourg
+6730,Rossignol,5.4851582,49.71877,Luxembourg
+6730,Saint-Vincent,5.475602,49.67741,Luxembourg
+6730,Tintigny,5.5185152,49.6821,Luxembourg
+6740,Etalle,5.5982415,49.67295,Luxembourg
+6740,Sainte-Marie-Sur-Semois,5.5644887,49.67322,Luxembourg
+6740,Villers-Sur-Semois,5.5614663,49.69875,Luxembourg
+6741,Vance,5.6698138,49.67017,Luxembourg
+6742,Chantemelle,5.6551334,49.65351,Luxembourg
+6743,Buzenol,5.5942184,49.6479,Luxembourg
+6747,Châtillon,5.6983633,49.62558,Luxembourg
+6747,Meix-Le-Tige,5.7187012,49.6152,Luxembourg
+6747,Saint-Léger,5.6569569,49.61344,Luxembourg
+6750,Musson,5.705881,49.55808,Luxembourg
+6750,Mussy-La-Ville,5.6617004,49.57141,Luxembourg
+6750,Signeulx,5.6403955,49.55286,Luxembourg
+6760,Bleid,5.6272894,49.56804,Luxembourg
+6760,Ethe,5.5766897,49.58142,Luxembourg
+6760,Ruette,5.5937884,49.53767,Luxembourg
+6760,Virton,5.5329559,49.56773,Luxembourg
+6761,Latour,5.5704642,49.55819,Luxembourg
+6762,Saint-Mard,5.5284511,49.55776,Luxembourg
+6767,Dampicourt,5.4979579,49.5553,Luxembourg
+6767,Harnoncourt,5.4996797,49.53429,Luxembourg
+6767,Lamorteau,5.4795124,49.52621,Luxembourg
+6767,Rouvroy,5.48971,49.53908,Luxembourg
+6767,Torgny,5.4735035,49.5085,Luxembourg
+6769,Gérouville,5.4287902,49.61843,Luxembourg
+6769,Meix-Devant-Virton,5.4816156,49.60559,Luxembourg
+6769,Robelmont,5.5071291,49.59534,Luxembourg
+6769,Sommethonne,5.4456876,49.57646,Luxembourg
+6769,Villers-La-Loue,5.481043,49.57495,Luxembourg
+6780,Hondelange,5.8350151,49.63517,Luxembourg
+6780,Messancy,5.8169286,49.59691,Luxembourg
+6780,Wolkrange,5.7983045,49.635,Luxembourg
+6781,Sélange,5.848409,49.60811,Luxembourg
+6782,Habergy,5.7608307,49.61534,Luxembourg
+6790,Aubange,5.804352,49.56753,Luxembourg
+6791,Athus,5.8317661,49.56421,Luxembourg
+6792,Halanzy,5.7422467,49.55904,Luxembourg
+6792,Rachecourt,5.7248143,49.59031,Luxembourg
+6800,Bras,5.3877654,49.97602,Luxembourg
+6800,Freux,5.4497307,49.97084,Luxembourg
+6800,Libramont-Chevigny,5.3823537,49.91972,Luxembourg
+6800,Moircy,5.468077,49.98948,Luxembourg
+6800,Recogne,5.3607943,49.91129,Luxembourg
+6800,Remagne,5.494626,49.97645,Luxembourg
+6800,Saint-Pierre,5.386433,49.90479,Luxembourg
+6800,Sainte-Marie-Chevigny,5.4578106,49.92357,Luxembourg
+6810,Chiny,5.3394252,49.73858,Luxembourg
+6810,Izel,5.3747807,49.69399,Luxembourg
+6810,Jamoigne,5.420477,49.69581,Luxembourg
+6811,Les Bulles,5.4263273,49.7031,Luxembourg
+6812,Suxy,5.4005563,49.76269,Luxembourg
+6813,Termes,5.4579753,49.70713,Luxembourg
+6820,Florenville,5.3100518,49.69932,Luxembourg
+6820,Fontenoille,5.234469,49.71508,Luxembourg
+6820,Muno,5.1759524,49.71768,Luxembourg
+6820,Sainte-Cécile,5.2429556,49.72937,Luxembourg
+6821,Lacuisine,5.318262,49.71701,Luxembourg
+6823,Villers-Devant-Orval,5.331466,49.61858,Luxembourg
+6824,Chassepierre,5.2621817,49.70769,Luxembourg
+6830,Bouillon,5.0672528,49.79498,Luxembourg
+6830,Les Hayons,5.1456628,49.81334,Luxembourg
+6830,Poupehan,5.0035785,49.81156,Luxembourg
+6830,Rochehaut,5.0070138,49.84045,Luxembourg
+6831,Noirfontaine,5.412251,50.61758,Luxembourg
+6832,Sensenruth,5.0738804,49.8254,Luxembourg
+6833,Ucimont,5.0573896,49.8314,Luxembourg
+6833,Vivy,5.0388784,49.8676,Luxembourg
+6834,Bellevaux,6.0129575,50.39128,Luxembourg
+6836,Dohan,5.1418578,49.79737,Luxembourg
+6838,Corbion,5.0065337,49.79763,Luxembourg
+6840,Grandvoir,5.3717959,49.8576,Luxembourg
+6840,Grapfontaine,5.4076005,49.8215,Luxembourg
+6840,Hamipré,5.4564462,49.83596,Luxembourg
+6840,Longlier,5.4609005,49.85622,Luxembourg
+6840,Neufchâteau,5.4339147,49.84118,Luxembourg
+6840,Tournay,5.3969928,49.85434,Luxembourg
+6850,Carlsbourg,5.0830529,49.89476,Luxembourg
+6850,Offagne,5.175013,49.88557,Luxembourg
+6850,Paliseul,5.1349041,49.90353,Luxembourg
+6851,Nollevaux,5.1220764,49.87106,Luxembourg
+6852,Maissin,5.1805775,49.96511,Luxembourg
+6852,Opont,5.1201252,49.93485,Luxembourg
+6853,Framont,5.1601932,49.91856,Luxembourg
+6856,Fays-Les-Veneurs,5.1607144,49.86621,Luxembourg
+6860,Assenois,5.4625426,49.803,Luxembourg
+6860,Ebly,5.534876707,49.85088,Luxembourg
+6860,Léglise,5.5381496,49.80036,Luxembourg
+6860,Mellier,5.5209461,49.76715,Luxembourg
+6860,Witry,5.6138516,49.85892,Luxembourg
+6870,Arville,5.3166577,50.0324,Luxembourg
+6870,Awenne,5.306188,50.07424,Luxembourg
+6870,Hatrival,5.348119,50.00529,Luxembourg
+6870,Mirwart,5.2653304,50.05699,Luxembourg
+6870,Saint-Hubert,5.3738561,50.02514,Luxembourg
+6870,Vesqueville,5.3968709,50.00584,Luxembourg
+6880,Auby-Sur-Semois,5.1823728,49.81572,Luxembourg
+6880,Bertrix,5.2529266,49.85466,Luxembourg
+6880,Cugnon,5.2033082,49.80204,Luxembourg
+6880,Jehonville,5.2022069,49.90655,Luxembourg
+6880,Orgeo,5.3022804,49.83431,Luxembourg
+6887,Herbeumont,5.2377736,49.78154,Luxembourg
+6887,Saint-Médard,5.3277128,49.81588,Luxembourg
+6887,Straimont,5.3811714,49.79617,Luxembourg
+6890,Anloy,5.2215609,49.9499,Luxembourg
+6890,Libin,5.2569017,49.98095,Luxembourg
+6890,Ochamps,5.2781878,49.92446,Luxembourg
+6890,Redu,5.1601828,50.00779,Luxembourg
+6890,Smuid,5.2662483,50.0188,Luxembourg
+6890,Transinne,5.2026639,50.00045,Luxembourg
+6890,Villance,5.2221196,49.97096,Luxembourg
+6900,Aye,5.2931158,50.2233,Luxembourg
+6900,Hargimont,5.3094652,50.18259,Luxembourg
+6900,Humain,5.2552435,50.20532,Luxembourg
+6900,Marche-En-Famenne,5.3428796,50.22408,Luxembourg
+6900,On,5.2862777,50.1716,Luxembourg
+6900,Roy,5.4095929,50.1879,Luxembourg
+6900,Waha,5.3441742,50.21197,Luxembourg
+6920,Sohier,5.0702515,50.06859,Luxembourg
+6920,Wellin,5.1146708,50.0823,Luxembourg
+6921,Chanly,5.1559991,50.07865,Luxembourg
+6922,Halma,5.1374206,50.07541,Luxembourg
+6924,Lomprez,5.092143,50.07625,Luxembourg
+6927,Bure,5.261162,50.08853,Luxembourg
+6927,Grupont,5.2798077,50.09234,Luxembourg
+6927,Resteigne,5.1778089,50.08285,Luxembourg
+6927,Tellin,5.216837,50.08102,Luxembourg
+6929,Daverdisse,5.1184644,50.02176,Luxembourg
+6929,Gembes,5.063233,49.9972,Luxembourg
+6929,Haut-Fays,5.016947,50.00174,Luxembourg
+6929,Porcheresse,5.0866787,49.9788,Luxembourg
+6940,Durbuy,5.456248,50.35241,Luxembourg
+6940,Grandhan,5.4086678,50.32998,Luxembourg
+6940,Septon,5.423028,50.35703,Luxembourg
+6940,Wéris,5.5307553,50.32664,Luxembourg
+6941,Bende,5.4142387,50.41763,Luxembourg
+6941,Bomal-Sur-Ourthe,5.5223752,50.37601,Luxembourg
+6941,Borlon,5.4048529,50.3784,Luxembourg
+6941,Heyd,5.562158,50.34645,Luxembourg
+6941,Izier,5.5793252,50.38489,Luxembourg
+6941,Tohogne,5.481405,50.38104,Luxembourg
+6941,Villers-Sainte-Gertrude,5.5764092,50.36192,Luxembourg
+6950,Harsin,5.3475606,50.17379,Luxembourg
+6950,Nassogne,5.3455462,50.1294,Luxembourg
+6951,Bande,5.4154822,50.16658,Luxembourg
+6952,Grune,5.3828952,50.15499,Luxembourg
+6953,Ambly,5.3142288,50.14418,Luxembourg
+6953,Forrières,5.2842239,50.13249,Luxembourg
+6953,Lesterny,5.2799209,50.11097,Luxembourg
+6953,Masbourg,5.3136921,50.11435,Luxembourg
+6960,Dochamps,5.6230297,50.2342,Luxembourg
+6960,Grandmenil,5.6625445,50.29228,Luxembourg
+6960,Harre,5.6587925,50.35168,Luxembourg
+6960,Malempré,5.7155249,50.28162,Luxembourg
+6960,Manhay,5.6756341,50.29296,Luxembourg
+6960,Odeigne,5.682551,50.25637,Luxembourg
+6960,Vaux-Chavanne,5.6968767,50.30215,Luxembourg
+6970,Tenneville,5.5242133,50.09125,Luxembourg
+6971,Champlon,5.5034047,50.10775,Luxembourg
+6972,Erneuville,5.5507905,50.11378,Luxembourg
+6980,Beausaint,5.5532565,50.17032,Luxembourg
+6980,La Roche-En-Ardenne,5.570152188,50.18292,Luxembourg
+6982,Samrée,5.6394828,50.20926,Luxembourg
+6983,Ortho,5.6138065,50.12491,Luxembourg
+6984,Hives,5.5783344,50.15067,Luxembourg
+6986,Halleux,5.5020384,50.17171,Luxembourg
+6987,Beffe,5.5230608,50.24543,Luxembourg
+6987,Hodister,5.4954367,50.20067,Luxembourg
+6987,Marcourt,5.5268173,50.21454,Luxembourg
+6987,Rendeux,5.5043243,50.23305,Luxembourg
+6990,Fronville,5.4221284,50.29433,Luxembourg
+6990,Hampteau,5.4729019,50.2579,Luxembourg
+6990,Hotton,5.4463304,50.2688,Luxembourg
+6990,Marenne,5.4165812,50.24184,Luxembourg
+6997,Amonines,5.5571509,50.26552,Luxembourg
+6997,Erezée,5.5597229,50.29309,Luxembourg
+6997,Mormont,5.7189108,50.14581,Luxembourg
+6997,Soy,5.5100929,50.28558,Luxembourg
+7000,Mons,3.951958,50.45496,Hainaut
+7011,Ghlin,3.903746,50.47605,Hainaut
+7012,Flénu,3.8878381,50.43676,Hainaut
+7012,Jemappes,3.8894392,50.44842,Hainaut
+7020,Maisières,3.962763,50.49015,Hainaut
+7020,Nimy,3.9545894,50.47594,Hainaut
+7021,Havre,4.0453329,50.46434,Hainaut
+7022,Harmignies,4.0177899,50.40764,Hainaut
+7022,Harveng,3.986884,50.3949,Hainaut
+7022,Hyon,3.9619447,50.43924,Hainaut
+7022,Mesvin,3.960668,50.42837,Hainaut
+7022,Nouvelles,3.9689185,50.41008,Hainaut
+7024,Ciply,3.9438349,50.4193,Hainaut
+7030,Saint-Symphorien,4.012574,50.43663,Hainaut
+7031,Villers-Saint-Ghislain,4.0389071,50.43124,Hainaut
+7032,Spiennes,3.9868957,50.42545,Hainaut
+7033,Cuesmes,3.9206652,50.43617,Hainaut
+7034,Obourg,4.0062232,50.47603,Hainaut
+7034,Saint-Denis,4.0181787,50.49205,Hainaut
+7040,Asquillies,3.9570563,50.402,Hainaut
+7040,Aulnois,3.9031862,50.34083,Hainaut
+7040,Blaregnies,3.8980429,50.35778,Hainaut
+7040,Bougnies,3.9391701,50.38675,Hainaut
+7040,Genly,3.9168758,50.39229,Hainaut
+7040,Goegnies-Chaussée,3.9442029,50.34228,Hainaut
+7040,Quévy,3.9439033,50.36672,Hainaut
+7040,Quévy-Le-Grand,3.9492347,50.36096,Hainaut
+7040,Quévy-Le-Petit,3.93752,50.368,Hainaut
+7041,Givry,4.0293435,50.37951,Hainaut
+7041,Havay,3.9841693,50.36115,Hainaut
+7050,Erbaut,3.884409,50.53309,Hainaut
+7050,Erbisoeul,3.8961158,50.51555,Hainaut
+7050,Herchies,3.8577095,50.52824,Hainaut
+7050,Jurbise,3.9113179,50.53251,Hainaut
+7050,Masnuy-Saint-Jean,3.9423599,50.53102,Hainaut
+7050,Masnuy-Saint-Pierre,3.9598418,50.53699,Hainaut
+7060,Horrues,4.0413076,50.60934,Hainaut
+7060,Soignies,4.0732968,50.57753,Hainaut
+7061,Casteau,4.0031319,50.51302,Hainaut
+7061,Thieusies,4.0489552,50.5151,Hainaut
+7062,Naast,4.1011662,50.55369,Hainaut
+7063,Chaussée-Notre-Dame-Louvignies,3.9979808,50.59216,Hainaut
+7063,Neufvilles,4.0029098,50.56831,Hainaut
+7070,Gottignies,4.0622054,50.49719,Hainaut
+7070,Le Roeulx,4.112245,50.5034,Hainaut
+7070,Mignault,4.152112,50.52918,Hainaut
+7070,Thieu,4.0922224,50.47335,Hainaut
+7070,Ville-Sur-Haine,4.0655313,50.47679,Hainaut
+7080,Eugies,3.8883703,50.39067,Hainaut
+7080,Frameries,3.8905656,50.40876,Hainaut
+7080,La Bouverie,3.8774491,50.40795,Hainaut
+7080,Noirchain,3.9298869,50.40187,Hainaut
+7080,Sars-La-Bruyère,3.8764088,50.3719,Hainaut
+7090,Braine-Le-Comte,4.1425138,50.61235,Hainaut
+7090,Hennuyères,4.1715689,50.6387,Hainaut
+7090,Henripont,4.1861019,50.59961,Hainaut
+7090,Petit-Roeulx-Lez-Braine,4.0894781,50.62409,Hainaut
+7090,Ronquières,4.2235457,50.60843,Hainaut
+7090,Steenkerque,4.0698505,50.64327,Hainaut
+7100,Haine-Saint-Paul,4.1883094,50.45494,Hainaut
+7100,Haine-Saint-Pierre,4.2000181,50.45476,Hainaut
+7100,La Louvière,4.1852682,50.47949,Hainaut
+7100,Saint-Vaast,4.1604101,50.4525,Hainaut
+7100,Trivières,4.1475857,50.45174,Hainaut
+7110,Boussoit,4.081995,50.45881,Hainaut
+7110,Houdeng-Aimeries,4.1524459,50.4836,Hainaut
+7110,Houdeng-Goegnies,4.1575303,50.48799,Hainaut
+7110,Maurage,4.0979858,50.45773,Hainaut
+7110,Strépy-Bracquegnies,4.1207031,50.47447,Hainaut
+7120,Croix-Lez-Rouveroy,4.0758701,50.36094,Hainaut
+7120,Estinnes,4.0975758,50.39767,Hainaut
+7120,Estinnes-Au-Mont,4.0989347,50.39521,Hainaut
+7120,Estinnes-Au-Val,4.1064835,50.41279,Hainaut
+7120,Fauroeulx,4.1095709,50.37034,Hainaut
+7120,Haulchin,4.0801348,50.38315,Hainaut
+7120,Peissant,4.1208612,50.35121,Hainaut
+7120,Rouveroy,4.062845,50.35556,Hainaut
+7120,Vellereille-Le-Sec,4.0573258,50.4018,Hainaut
+7120,Vellereille-Les-Brayeux,4.1507915,50.37901,Hainaut
+7130,Battignies,4.1685575,50.41651,Hainaut
+7130,Binche,4.170167716,50.41282,Hainaut
+7130,Bray,4.1024947,50.42999,Hainaut
+7131,Waudrez,4.150981,50.41378,Hainaut
+7133,Buvrinnes,4.2055425,50.38975,Hainaut
+7134,Epinois,4.2093685,50.40498,Hainaut
+7134,Leval-Trahegnies,4.218073,50.41655,Hainaut
+7134,Péronnes-Lez-Binche,4.1458468,50.43642,Hainaut
+7134,Ressaix,4.1910482,50.42381,Hainaut
+7140,Morlanwelz,4.2523562,50.45098,Hainaut
+7140,Morlanwelz-Mariemont,4.243909,50.45446,Hainaut
+7141,Carnières,4.2542126,50.44304,Hainaut
+7141,Mont-Sainte-Aldegonde,4.2340727,50.42939,Hainaut
+7160,Chapelle-Lez-Herlaimont,4.2804202,50.47133,Hainaut
+7160,Godarville,4.2865899,50.49555,Hainaut
+7160,Piéton,4.2984261,50.44149,Hainaut
+7170,Bellecourt,4.254013,50.48431,Hainaut
+7170,Bois-D'haine,4.2156931,50.50234,Hainaut
+7170,Fayt-Lez-Manage,4.2282511,50.48982,Hainaut
+7170,La Hestre,4.2358174,50.47387,Hainaut
+7170,Manage,4.2343288,50.50361,Hainaut
+7180,Seneffe,4.266460924,50.52506,Hainaut
+7181,Arquennes,4.28751482,50.56404,Hainaut
+7181,Familleureux,4.199657691,50.52568,Hainaut
+7181,Feluy,4.243092604,50.56256,Hainaut
+7181,Petit-Roeulx-Lez-Nivelles,4.318698663,50.55877,Hainaut
+7190,Ecaussinnes,4.1752492,50.56961,Hainaut
+7190,Ecaussinnes-D'enghien,4.1776303,50.57148,Hainaut
+7190,Marche-Lez-Ecaussinnes,4.1832813,50.5469,Hainaut
+7191,Ecaussinnes-Lalaing,4.1785518,50.57036,Hainaut
+7300,Boussu,3.7960902,50.43313,Hainaut
+7301,Hornu,3.8276077,50.43376,Hainaut
+7320,Bernissart,3.6504677,50.4755,Hainaut
+7321,Blaton,3.6611754,50.50117,Hainaut
+7321,Harchies,3.6936,50.47944,Hainaut
+7322,Pommeroeul,3.7107354,50.46113,Hainaut
+7322,Ville-Pommeroeul,3.7304437,50.47165,Hainaut
+7330,Saint-Ghislain,3.82147814,50.44836,Hainaut
+7331,Baudour,3.8327577,50.48144,Hainaut
+7332,Neufmaison,3.7918519,50.53047,Hainaut
+7332,Sirault,3.7881267,50.50606,Hainaut
+7333,Tertre,3.8081735,50.46731,Hainaut
+7334,Hautrage,3.7650049,50.48239,Hainaut
+7334,Villerot,3.7902777,50.48616,Hainaut
+7340,Colfontaine,3.8513958,50.40566,Hainaut
+7340,Paturages,3.8629223,50.41365,Hainaut
+7340,Warquignies,3.8223517,50.40026,Hainaut
+7340,Wasmes,3.846637,50.41418,Hainaut
+7350,Hainin,3.7661218,50.43115,Hainaut
+7350,Hensies,3.6847215,50.43284,Hainaut
+7350,Montroeul-Sur-Haine,3.703666,50.436,Hainaut
+7350,Thulin,3.7393229,50.42928,Hainaut
+7370,Blaugies,3.8051335,50.37298,Hainaut
+7370,Dour,3.7806897,50.39788,Hainaut
+7370,Elouges,3.7521047,50.4037,Hainaut
+7370,Wihéries,3.7521224,50.38529,Hainaut
+7380,Baisieux,3.6957835,50.38788,Hainaut
+7380,Quiévrain,3.6819263,50.40848,Hainaut
+7382,Audregnies,3.7177788,50.38301,Hainaut
+7387,Angre,3.6954509,50.36698,Hainaut
+7387,Angreau,3.6911259,50.35093,Hainaut
+7387,Athis,3.776059,50.36477,Hainaut
+7387,Autreppe,3.7317059,50.34632,Hainaut
+7387,Erquennes,3.7933404,50.359,Hainaut
+7387,Fayt-Le-Franc,3.7724828,50.35669,Hainaut
+7387,Honnelles,3.731019,50.35209,Hainaut
+7387,Marchipont,3.666982,50.37789,Hainaut
+7387,Montignies-Sur-Roc,3.7333223,50.36801,Hainaut
+7387,Onnezies,3.71633,50.36351,Hainaut
+7387,Roisin,3.6938101,50.33308,Hainaut
+7390,Quaregnon,3.8636971,50.44218,Hainaut
+7390,Wasmuel,3.8466719,50.44573,Hainaut
+7500,Ere,3.3668477,50.58222,Hainaut
+7500,Saint-Maur,3.3923658,50.57217,Hainaut
+7500,Tournai,3.3878259,50.60566,Hainaut
+7501,Orcq,3.3492864,50.60495,Hainaut
+7502,Esplechin,3.3038112,50.57439,Hainaut
+7503,Froyennes,3.3569842,50.61955,Hainaut
+7504,Froidmont,3.3287795,50.57792,Hainaut
+7506,Willemeau,3.350025,50.57398,Hainaut
+7520,Ramegnies-Chin,3.335337,50.6513,Hainaut
+7520,Templeuve,3.2831577,50.64491,Hainaut
+7521,Chercq,3.4212542,50.58855,Hainaut
+7522,Blandain,3.3035015,50.62497,Hainaut
+7522,Hertain,3.2880161,50.61411,Hainaut
+7522,Lamain,3.2931148,50.59826,Hainaut
+7522,Marquain,3.3226398,50.60788,Hainaut
+7530,Gaurain-Ramecroix,3.4834445,50.59249,Hainaut
+7531,Havinnes,3.4655917,50.6157,Hainaut
+7532,Beclers,3.5028761,50.62178,Hainaut
+7533,Thimougies,3.5102508,50.63495,Hainaut
+7534,Barry,3.5430623,50.58754,Hainaut
+7534,Maulde,3.5483951,50.61696,Hainaut
+7536,Vaulx,3.426172,50.58989,Hainaut
+7538,Vezon,3.5017888,50.5684,Hainaut
+7540,Kain,3.3809106,50.63791,Hainaut
+7540,Melles,3.4818996,50.64673,Hainaut
+7540,Quartes,3.5120068,50.65014,Hainaut
+7540,Rumillies,3.4372618,50.6201,Hainaut
+7542,Mont-Saint-Aubert,3.4000171,50.65544,Hainaut
+7543,Mourcourt,3.445164,50.65304,Hainaut
+7548,Warchin,3.4267528,50.60962,Hainaut
+7600,Péruwelz,3.5908864,50.50979,Hainaut
+7601,Roucourt,3.5870901,50.52917,Hainaut
+7602,Bury,3.59458,50.54264,Hainaut
+7603,Bon-Secours,3.607483,50.49762,Hainaut
+7604,Baugnies,3.552247,50.56159,Hainaut
+7604,Braffe,3.5828589,50.55235,Hainaut
+7604,Brasmenil,3.5472808,50.54174,Hainaut
+7604,Callenelle,3.5253447,50.52973,Hainaut
+7604,Wasmes-Audemez-Briffoeil,3.5352247,50.55395,Hainaut
+7608,Wiers,3.533035,50.50867,Hainaut
+7610,Rumes,3.3039251,50.55577,Hainaut
+7611,La Glanerie,3.3010202,50.52984,Hainaut
+7618,Taintignies,3.3416855,50.5502,Hainaut
+7620,Bléharies,3.4155171,50.51312,Hainaut
+7620,Brunehaut,3.3795619,50.51781,Hainaut
+7620,Guignies,3.3663017,50.54714,Hainaut
+7620,Hollain,3.4271843,50.54218,Hainaut
+7620,Jollain-Merlin,3.404104746,50.54598,Hainaut
+7620,Wez-Velvain,3.388586,50.54684,Hainaut
+7621,Lesdain,3.388096329,50.52029,Hainaut
+7622,Laplaigne,3.441858763,50.52296,Hainaut
+7623,Rongy,3.381563203,50.50665,Hainaut
+7624,Howardries,3.354190039,50.51703,Hainaut
+7640,Antoing,3.4513116,50.56591,Hainaut
+7640,Maubray,3.5020267,50.55151,Hainaut
+7640,Péronnes-Lez-Antoing,3.4538057,50.55186,Hainaut
+7641,Bruyelle,3.426992,50.5574,Hainaut
+7642,Calonne,3.4371661,50.57833,Hainaut
+7643,Fontenoy,3.473373,50.56789,Hainaut
+7700,Luingne,3.2344942,50.73862,Hainaut
+7700,Mouscron,3.2139093,50.74334,Hainaut
+7711,Dottignies,3.3037301,50.7274,Hainaut
+7712,Herseaux,3.2342044,50.72271,Hainaut
+7730,Bailleul,3.3176015,50.66892,Hainaut
+7730,Estaimbourg,3.3180722,50.68262,Hainaut
+7730,Estaimpuis,3.2640184,50.70598,Hainaut
+7730,Evregnies,3.2875443,50.71305,Hainaut
+7730,Leers-Nord,3.2703911,50.68756,Hainaut
+7730,Néchin,3.2690175,50.66694,Hainaut
+7730,Saint-Léger,3.3149729,50.70565,Hainaut
+7740,Pecq,3.3407492,50.68562,Hainaut
+7740,Warcoing,3.3451985,50.70217,Hainaut
+7742,Hérinnes-Lez-Pecq,3.3623581,50.70088,Hainaut
+7743,Esquelmes,3.347779,50.66508,Hainaut
+7743,Obigies,3.364281,50.66206,Hainaut
+7750,Amougies,3.5066795,50.74372,Hainaut
+7750,Anseroeul,3.520558,50.72803,Hainaut
+7750,Mont-De-L'enclus,3.5110542,50.74565,Hainaut
+7750,Orroir,3.481663,50.7476,Hainaut
+7750,Russeignies,3.5309528,50.74476,Hainaut
+7760,Celles,3.4571664,50.71254,Hainaut
+7760,Escanaffles,3.4486114,50.75463,Hainaut
+7760,Molenbaix,3.4294567,50.693,Hainaut
+7760,Popuelles,3.5192597,50.66215,Hainaut
+7760,Pottes,3.4050325,50.73142,Hainaut
+7760,Velaines,3.4865934,50.66856,Hainaut
+7780,Comines,2.998666,50.76874,Hainaut
+7780,Comines-Warneton,3.001907782,50.7712,Hainaut
+7781,Houthem,2.9640553,50.78682,Hainaut
+7782,Ploegsteert,2.8803139,50.72622,Hainaut
+7783,Bizet,2.88999,50.70609,Hainaut
+7784,Bas-Warneton,2.9625206,50.75882,Hainaut
+7784,Warneton,2.9502023,50.75299,Hainaut
+7800,Ath,3.79267935,50.6395,Hainaut
+7800,Lanquesaint,3.8042549,50.65342,Hainaut
+7801,Irchonwelz,3.7536768,50.62016,Hainaut
+7802,Ormeignies,3.7516336,50.59472,Hainaut
+7803,Bouvignies,3.7677307,50.64771,Hainaut
+7804,Ostiches,3.7584252,50.67885,Hainaut
+7804,Rebaix,3.7836911,50.6602,Hainaut
+7810,Maffle,3.8060162,50.61507,Hainaut
+7811,Arbre,3.8148309,50.61035,Hainaut
+7812,Houtaing,3.67998,50.63975,Hainaut
+7812,Ligne,3.7054981,50.62228,Hainaut
+7812,Mainvault,3.7184421,50.64958,Hainaut
+7812,Moulbaix,3.7156806,50.60019,Hainaut
+7812,Villers-Notre-Dame,3.7360962,50.61788,Hainaut
+7812,Villers-Saint-Amand,3.730712,50.62266,Hainaut
+7822,Ghislenghien,3.875818,50.65669,Hainaut
+7822,Isières,3.8181687,50.6638,Hainaut
+7822,Meslin-L'evêque,3.8480962,50.64858,Hainaut
+7823,Gibecq,3.8878195,50.63767,Hainaut
+7830,Bassilly,3.9360497,50.67242,Hainaut
+7830,Fouleng,3.9282801,50.61828,Hainaut
+7830,Gondregnies,3.9118667,50.62707,Hainaut
+7830,Graty,3.9967288,50.63117,Hainaut
+7830,Hellebecq,3.8887882,50.66317,Hainaut
+7830,Hoves,4.0358365,50.67171,Hainaut
+7830,Silly,3.9243973,50.6489,Hainaut
+7830,Thoricourt,3.9509699,50.61012,Hainaut
+7850,Enghien,4.0406912,50.69276,Hainaut
+7850,Marcq,4.0173479,50.69036,Hainaut
+7850,Petit-Enghien,4.0845939,50.68993,Hainaut
+7860,Lessines,3.8301131,50.7123,Hainaut
+7861,Papignies,3.819132,50.68615,Hainaut
+7861,Wannebecq,3.7998354,50.69408,Hainaut
+7862,Ogy,3.780225,50.72084,Hainaut
+7863,Ghoy,3.8094385,50.72834,Hainaut
+7864,Deux-Acren,3.8522036,50.73073,Hainaut
+7866,Bois-De-Lessines,3.8856306,50.6953,Hainaut
+7866,Ollignies,3.8598773,50.68742,Hainaut
+7870,Bauffe,3.8537045,50.57014,Hainaut
+7870,Cambron-Saint-Vincent,3.9162237,50.58278,Hainaut
+7870,Lens,3.9005461,50.55708,Hainaut
+7870,Lombise,3.9397913,50.60077,Hainaut
+7870,Montignies-Lez-Lens,3.9433795,50.56431,Hainaut
+7880,Flobecq,3.7378707,50.73717,Hainaut
+7890,Ellezelles,3.6802062,50.73387,Hainaut
+7890,Lahamaide,3.7246735,50.69558,Hainaut
+7890,Wodecq,3.7444299,50.71785,Hainaut
+7900,Grandmetz,3.6322713,50.62205,Hainaut
+7900,Leuze-En-Hainaut,3.617736903,50.59904,Hainaut
+7901,Thieulain,3.6085857,50.61798,Hainaut
+7903,Blicquy,3.6857513,50.5878,Hainaut
+7903,Chapelle-à-Oie,3.6709445,50.59679,Hainaut
+7903,Chapelle-à-Wattines,3.6551354,50.6125,Hainaut
+7904,Pipaix,3.575887,50.58287,Hainaut
+7904,Tourpes,3.6493593,50.57269,Hainaut
+7904,Willaupuis,3.6038961,50.56664,Hainaut
+7906,Gallaix,3.5748349,50.60607,Hainaut
+7910,Anvaing,3.5617225,50.68177,Hainaut
+7910,Arc-Wattripont,3.5489704,50.72825,Hainaut
+7910,Cordes,3.5342514,50.6882,Hainaut
+7910,Ellignies-Lez-Frasnes,3.5903652,50.67478,Hainaut
+7910,Forest,3.5373149,50.67362,Hainaut
+7910,Frasnes-Lez-Anvaing,3.545525397,50.68457,Hainaut
+7910,Wattripont,3.5489704,50.72825,Hainaut
+7911,Buissenal,3.6551307,50.66486,Hainaut
+7911,Frasnes-Lez-Buissenal,3.6194481,50.66776,Hainaut
+7911,Hacquegnies,3.5938505,50.65224,Hainaut
+7911,Herquegies,3.5785557,50.63493,Hainaut
+7911,Montroeul-Au-Bois,3.571359,50.64291,Hainaut
+7911,Moustier,3.619931,50.65575,Hainaut
+7911,Oeudeghien,3.7117971,50.67807,Hainaut
+7912,Dergneau,3.5666,50.71258,Hainaut
+7912,Saint-Sauveur,3.5977459,50.70618,Hainaut
+7940,Brugelette,3.8546563,50.59543,Hainaut
+7940,Cambron-Casteau,3.8807488,50.58856,Hainaut
+7941,Attre,3.8410951,50.61024,Hainaut
+7942,Mévergnies-Lez-Lens,3.8507081,50.60447,Hainaut
+7943,Gages,3.8910777,50.6068,Hainaut
+7950,Chièvres,3.810128,50.58769,Hainaut
+7950,Grosage,3.7571017,50.54444,Hainaut
+7950,Huissignies,3.7532905,50.56582,Hainaut
+7950,Ladeuze,3.7713023,50.56798,Hainaut
+7950,Tongre-Saint-Martin,3.7907921,50.58604,Hainaut
+7951,Tongre-Notre-Dame,3.7748043,50.58131,Hainaut
+7970,Beloeil,3.7361279,50.54792,Hainaut
+7971,Basècles,3.6472042,50.52521,Hainaut
+7971,Ramegnies,3.6351295,50.54439,Hainaut
+7971,Thumaide,3.6304664,50.54042,Hainaut
+7971,Wadelincourt,3.6483678,50.5386,Hainaut
+7972,Aubechies,3.6769173,50.57393,Hainaut
+7972,Quevaucamps,3.6909731,50.53025,Hainaut
+7973,Grandglise,3.6966742,50.50444,Hainaut
+7973,Stambruges,3.7202435,50.50835,Hainaut
+8000,Brugge,3.2073611,51.21471,Flandre-Occidentale
+8000,Koolkerke,3.2473789,51.242,Flandre-Occidentale
+8020,Hertsberge,3.261234955,51.10997,Flandre-Occidentale
+8020,Oostkamp,3.249713726,51.15115,Flandre-Occidentale
+8020,Ruddervoorde,3.201478103,51.08465,Flandre-Occidentale
+8020,Waardamme,3.2222872,51.11233,Flandre-Occidentale
+8200,Sint-Andries,3.175005415,51.18831,Flandre-Occidentale
+8200,Sint-Michiels,3.2111722,51.18846,Flandre-Occidentale
+8210,Loppem,3.1955523,51.15575,Flandre-Occidentale
+8210,Veldegem,3.1606518,51.10489,Flandre-Occidentale
+8210,Zedelgem,3.140447328,51.13553,Flandre-Occidentale
+8211,Aartrijke,3.091326555,51.118,Flandre-Occidentale
+8300,Knokke,3.323373861,51.34943,Flandre-Occidentale
+8300,Knokke-Heist,3.2702133,51.33961,Flandre-Occidentale
+8300,Westkapelle,3.31728657,51.32078,Flandre-Occidentale
+8301,Ramskapelle,3.2505004,51.3127,Flandre-Occidentale
+8310,Assebroek,3.25707854,51.19332,Flandre-Occidentale
+8310,Sint-Kruis,3.2506508,51.2142,Flandre-Occidentale
+8340,Damme,3.292091113,51.2553,Flandre-Occidentale
+8340,Hoeke,3.330283883,51.2937,Flandre-Occidentale
+8340,Lapscheure,3.352391896,51.28214,Flandre-Occidentale
+8340,Moerkerke,3.355801771,51.24223,Flandre-Occidentale
+8340,Oostkerke,3.288467405,51.27517,Flandre-Occidentale
+8340,Sijsele,3.34353151,51.21053,Flandre-Occidentale
+8370,Blankenberge,3.129757804,51.31651,Flandre-Occidentale
+8370,Uitkerke,3.14048681,51.29969,Flandre-Occidentale
+8377,Houtave,3.107176808,51.2388,Flandre-Occidentale
+8377,Meetkerke,3.146983197,51.23563,Flandre-Occidentale
+8377,Nieuwmunster,3.099414972,51.2758,Flandre-Occidentale
+8377,Zuienkerke,3.156740609,51.26858,Flandre-Occidentale
+8380,Dudzele,3.2292277,51.27475,Flandre-Occidentale
+8380,Lissewege,3.199182416,51.31711,Flandre-Occidentale
+8380,Zeebrugge,3.2078842,51.33138,Flandre-Occidentale
+8400,Oostende,2.9203275,51.23032,Flandre-Occidentale
+8400,Stene,2.920083554,51.20215,Flandre-Occidentale
+8400,Zandvoorde,2.966800865,51.20485,Flandre-Occidentale
+8420,De Haan,3.0049248,51.24151,Flandre-Occidentale
+8420,Klemskerke,3.0238828,51.24252,Flandre-Occidentale
+8420,Wenduine,3.092774071,51.30198,Flandre-Occidentale
+8421,Vlissegem,3.063559819,51.26417,Flandre-Occidentale
+8430,Middelkerke,2.806340123,51.18332,Flandre-Occidentale
+8431,Wilskerke,2.8401373,51.18095,Flandre-Occidentale
+8432,Leffinge,2.8776766,51.17468,Flandre-Occidentale
+8433,Mannekensvere,2.8183418,51.1258,Flandre-Occidentale
+8433,Schore,2.8402112,51.11109,Flandre-Occidentale
+8433,Sint-Pieters-Kapelle,2.885908121,51.12283,Flandre-Occidentale
+8433,Slijpe,2.8476959,51.1544,Flandre-Occidentale
+8434,Lombardsijde,2.754986417,51.15402,Flandre-Occidentale
+8434,Westende,2.777751282,51.15833,Flandre-Occidentale
+8450,Bredene,2.972576947,51.2389,Flandre-Occidentale
+8460,Ettelgem,3.038450483,51.19765,Flandre-Occidentale
+8460,Oudenburg,3.006108952,51.20118,Flandre-Occidentale
+8460,Roksem,3.033328467,51.16622,Flandre-Occidentale
+8460,Westkerke,3.004744551,51.16356,Flandre-Occidentale
+8470,Gistel,2.967081095,51.15825,Flandre-Occidentale
+8470,Moere,2.956555441,51.13196,Flandre-Occidentale
+8470,Snaaskerke,2.933367814,51.17626,Flandre-Occidentale
+8470,Zevekote,2.901660535,51.13819,Flandre-Occidentale
+8480,Bekegem,3.05823224,51.14886,Flandre-Occidentale
+8480,Eernegem,3.023122345,51.1282,Flandre-Occidentale
+8480,Ichtegem,3.029622213,51.08743,Flandre-Occidentale
+8490,Jabbeke,3.090295389,51.18464,Flandre-Occidentale
+8490,Snellegem,3.122987104,51.17553,Flandre-Occidentale
+8490,Stalhille,3.073001421,51.21971,Flandre-Occidentale
+8490,Varsenare,3.136135032,51.1992,Flandre-Occidentale
+8490,Zerkegem,3.061248646,51.17126,Flandre-Occidentale
+8500,Kortrijk,3.27841539,50.81788,Flandre-Occidentale
+8501,Bissegem,3.2284723,50.82282,Flandre-Occidentale
+8501,Heule,3.238200481,50.85117,Flandre-Occidentale
+8510,Bellegem,3.2800137,50.77815,Flandre-Occidentale
+8510,Kooigem,3.3261001,50.73966,Flandre-Occidentale
+8510,Marke,3.2336226,50.80705,Flandre-Occidentale
+8510,Rollegem,3.256473018,50.77233,Flandre-Occidentale
+8511,Aalbeke,3.218604632,50.77746,Flandre-Occidentale
+8520,Kuurne,3.273632215,50.86005,Flandre-Occidentale
+8530,Harelbeke,3.3425511,50.82932,Flandre-Occidentale
+8531,Bavikhove,3.312604484,50.87905,Flandre-Occidentale
+8531,Hulste,3.2990273,50.88207,Flandre-Occidentale
+8540,Deerlijk,3.362279023,50.83878,Flandre-Occidentale
+8550,Zwevegem,3.341906743,50.80407,Flandre-Occidentale
+8551,Heestert,3.4120184,50.78215,Flandre-Occidentale
+8552,Moen,3.382526324,50.77542,Flandre-Occidentale
+8553,Otegem,3.424549937,50.80928,Flandre-Occidentale
+8554,Sint-Denijs,3.349745322,50.7644,Flandre-Occidentale
+8560,Gullegem,3.202615488,50.84493,Flandre-Occidentale
+8560,Moorsele,3.154931804,50.84259,Flandre-Occidentale
+8560,Wevelgem,3.186445006,50.81211,Flandre-Occidentale
+8570,Anzegem,3.463734552,50.844,Flandre-Occidentale
+8570,Gijzelbrechtegem,3.5060602,50.82792,Flandre-Occidentale
+8570,Ingooigem,3.427183736,50.82979,Flandre-Occidentale
+8570,Vichte,3.4068379,50.83532,Flandre-Occidentale
+8572,Kaster,3.497609,50.81219,Flandre-Occidentale
+8573,Tiegem,3.469773854,50.81305,Flandre-Occidentale
+8580,Avelgem,3.446898531,50.7755,Flandre-Occidentale
+8581,Kerkhove,3.505897166,50.80084,Flandre-Occidentale
+8581,Waarmaarde,3.4854202,50.79038,Flandre-Occidentale
+8582,Outrijve,3.425733181,50.75869,Flandre-Occidentale
+8583,Bossuit,3.40808193,50.74805,Flandre-Occidentale
+8587,Espierres,3.346526465,50.72568,Flandre-Occidentale
+8587,Espierres-Helchin,3.346526465,50.72568,Flandre-Occidentale
+8587,Helchin,3.3837254,50.73,Flandre-Occidentale
+8600,Beerst,2.873227743,51.05367,Flandre-Occidentale
+8600,Diksmuide,2.8647185,51.03334,Flandre-Occidentale
+8600,Driekapellen,3.9855229,50.70597,Flandre-Occidentale
+8600,Esen,2.899084569,51.02079,Flandre-Occidentale
+8600,Kaaskerke,2.8387074,51.03581,Flandre-Occidentale
+8600,Keiem,2.8814586,51.08624,Flandre-Occidentale
+8600,Lampernisse,2.77030287,51.03964,Flandre-Occidentale
+8600,Leke,2.899317926,51.10066,Flandre-Occidentale
+8600,Nieuwkapelle,2.804281409,50.99745,Flandre-Occidentale
+8600,Oostkerke,2.799707437,51.04353,Flandre-Occidentale
+8600,Oudekapelle,2.804081673,51.02069,Flandre-Occidentale
+8600,Pervijze,2.791471356,51.08053,Flandre-Occidentale
+8600,Stuivekenskerke,2.823381777,51.0769,Flandre-Occidentale
+8600,Vladslo,2.920780089,51.06253,Flandre-Occidentale
+8600,Woumen,2.852059544,50.99495,Flandre-Occidentale
+8610,Handzame,2.996075152,51.03219,Flandre-Occidentale
+8610,Kortemark,3.0441178,51.02851,Flandre-Occidentale
+8610,Werken,2.9637026,51.02901,Flandre-Occidentale
+8610,Zarren,2.9597764,51.01811,Flandre-Occidentale
+8620,Nieuwpoort,2.72839865,51.14416,Flandre-Occidentale
+8620,Ramskapelle,2.781124953,51.10665,Flandre-Occidentale
+8620,Sint-Joris,2.7781339,51.13002,Flandre-Occidentale
+8630,Avekapelle,2.745771071,51.06311,Flandre-Occidentale
+8630,Booitshoeke,2.739998349,51.08833,Flandre-Occidentale
+8630,Bulskamp,2.64344877,51.04446,Flandre-Occidentale
+8630,De Moeren,2.595395038,51.03588,Flandre-Occidentale
+8630,Eggewaartskapelle,2.729824775,51.04953,Flandre-Occidentale
+8630,Houtem,2.604305716,51.00691,Flandre-Occidentale
+8630,Steenkerke,2.689538954,51.05277,Flandre-Occidentale
+8630,Veurne,2.654885824,51.07104,Flandre-Occidentale
+8630,Vinkem,2.657058189,51.01364,Flandre-Occidentale
+8630,Wulveringem,2.655043949,51.03031,Flandre-Occidentale
+8630,Zoutenaaie,2.751531178,51.05092,Flandre-Occidentale
+8640,Oostvleteren,2.749222447,50.92313,Flandre-Occidentale
+8640,Vleteren,2.7289867,50.93014,Flandre-Occidentale
+8640,Westvleteren,2.720550896,50.91038,Flandre-Occidentale
+8640,Woesten,2.788758531,50.90355,Flandre-Occidentale
+8647,Lo,2.760780072,50.99313,Flandre-Occidentale
+8647,Lo-Reninge,2.7643391,50.96381,Flandre-Occidentale
+8647,Noordschote,2.821731856,50.94847,Flandre-Occidentale
+8647,Pollinkhove,2.719858536,50.97266,Flandre-Occidentale
+8647,Reninge,2.777117085,50.94228,Flandre-Occidentale
+8650,Houthulst,2.943811051,50.97408,Flandre-Occidentale
+8650,Klerken,2.915513595,50.99044,Flandre-Occidentale
+8650,Merkem,2.87361728,50.96207,Flandre-Occidentale
+8660,Adinkerke,2.589602838,51.06926,Flandre-Occidentale
+8660,De Panne,2.580669689,51.09438,Flandre-Occidentale
+8670,Koksijde,2.635342602,51.10911,Flandre-Occidentale
+8670,Oostduinkerke,2.701267997,51.12532,Flandre-Occidentale
+8670,Wulpen,2.707311916,51.09779,Flandre-Occidentale
+8680,Bovekerke,2.963341473,51.05621,Flandre-Occidentale
+8680,Koekelare,2.968218734,51.09118,Flandre-Occidentale
+8680,Zande,2.91863538,51.11744,Flandre-Occidentale
+8690,Alveringem,2.72256881,51.0151,Flandre-Occidentale
+8690,Hoogstade,2.6903321,50.98007,Flandre-Occidentale
+8690,Oeren,2.7051716,51.02353,Flandre-Occidentale
+8690,Sint-Rijkers,2.6881434,50.99452,Flandre-Occidentale
+8691,Gijverinkhove,2.6727552,50.97617,Flandre-Occidentale
+8691,Izenberge,2.660833249,50.98966,Flandre-Occidentale
+8691,Leisele,2.622401,50.98448,Flandre-Occidentale
+8691,Stavele,2.673321,50.93984,Flandre-Occidentale
+8700,Aarsele,3.41398842,50.99724,Flandre-Occidentale
+8700,Kanegem,3.403556708,51.0214,Flandre-Occidentale
+8700,Schuiferskapelle,3.328310734,51.03701,Flandre-Occidentale
+8700,Tielt,3.341426328,50.99996,Flandre-Occidentale
+8710,Ooigem,3.330496414,50.89498,Flandre-Occidentale
+8710,Sint-Baafs-Vijve,3.386254503,50.92453,Flandre-Occidentale
+8710,Wielsbeke,3.360403749,50.91141,Flandre-Occidentale
+8720,Dentergem,3.402293717,50.96613,Flandre-Occidentale
+8720,Markegem,3.394380172,50.95015,Flandre-Occidentale
+8720,Oeselgem,3.429680547,50.94009,Flandre-Occidentale
+8720,Wakken,3.400983085,50.93484,Flandre-Occidentale
+8730,Beernem,3.31447326,51.12774,Flandre-Occidentale
+8730,Oedelem,3.34411227,51.16602,Flandre-Occidentale
+8730,Sint-Joris,3.364656839,51.1251,Flandre-Occidentale
+8740,Egem,3.254063484,51.02096,Flandre-Occidentale
+8740,Pittem,3.262273003,50.99996,Flandre-Occidentale
+8750,Wingene,3.284768308,51.06809,Flandre-Occidentale
+8750,Zwevezele,3.205375692,51.04223,Flandre-Occidentale
+8755,Ruiselede,3.37894958,51.06276,Flandre-Occidentale
+8760,Meulebeke,3.285960576,50.94848,Flandre-Occidentale
+8770,Ingelmunster,3.261718974,50.92197,Flandre-Occidentale
+8780,Oostrozebeke,3.346820637,50.93435,Flandre-Occidentale
+8790,Waregem,3.42573804,50.8762,Flandre-Occidentale
+8791,Beveren,3.342747236,50.8717,Flandre-Occidentale
+8792,Desselgem,3.366911956,50.88303,Flandre-Occidentale
+8793,Sint-Eloois-Vijve,3.4036062,50.90572,Flandre-Occidentale
+8800,Beveren,3.14416,50.96873,Flandre-Occidentale
+8800,Oekene,3.162776097,50.90426,Flandre-Occidentale
+8800,Roeselare,3.124765,50.94449,Flandre-Occidentale
+8800,Rumbeke,3.122302688,50.91511,Flandre-Occidentale
+8810,Lichtervelde,3.142271772,51.03033,Flandre-Occidentale
+8820,Torhout,3.091307205,51.05859,Flandre-Occidentale
+8830,Gits,3.110328541,50.99759,Flandre-Occidentale
+8830,Hooglede,3.068721585,50.98218,Flandre-Occidentale
+8840,Oostnieuwkerke,3.064158605,50.94159,Flandre-Occidentale
+8840,Staden,3.001340623,50.97049,Flandre-Occidentale
+8840,Westrozebeke,3.009552595,50.93301,Flandre-Occidentale
+8850,Ardooie,3.204593667,50.97077,Flandre-Occidentale
+8851,Koolskamp,3.201614284,51.00753,Flandre-Occidentale
+8860,Lendelede,3.232013466,50.88507,Flandre-Occidentale
+8870,Emelgem,3.221285235,50.93366,Flandre-Occidentale
+8870,Izegem,3.209065421,50.91382,Flandre-Occidentale
+8870,Kachtem,3.189040091,50.93988,Flandre-Occidentale
+8880,Ledegem,3.117659878,50.86898,Flandre-Occidentale
+8880,Rollegem-Kapelle,3.151023206,50.87005,Flandre-Occidentale
+8880,Sint-Eloois-Winkel,3.179116,50.87651,Flandre-Occidentale
+8890,Dadizele,3.105666576,50.84693,Flandre-Occidentale
+8890,Moorslede,3.073207597,50.89007,Flandre-Occidentale
+8900,Brielen,2.8475388,50.8689,Flandre-Occidentale
+8900,Dikkebus,2.8309734,50.81921,Flandre-Occidentale
+8900,Ieper,2.891477451,50.85181,Flandre-Occidentale
+8900,Sint-Jan,2.9038085,50.8646,Flandre-Occidentale
+8902,Hollebeke,2.9383694,50.80565,Flandre-Occidentale
+8902,Voormezele,2.8757825,50.81699,Flandre-Occidentale
+8902,Zillebeke,2.9224029,50.83464,Flandre-Occidentale
+8904,Boezinge,2.862448252,50.89329,Flandre-Occidentale
+8904,Zuidschote,2.8285726,50.91296,Flandre-Occidentale
+8906,Elverdinge,2.808607209,50.8812,Flandre-Occidentale
+8908,Vlamertinge,2.814659656,50.84722,Flandre-Occidentale
+8920,Bikschote,2.863108836,50.92504,Flandre-Occidentale
+8920,Langemark,2.912173087,50.91012,Flandre-Occidentale
+8920,Langemark-Poelkapelle,2.9338635,50.91226,Flandre-Occidentale
+8920,Poelkapelle,2.963260686,50.92782,Flandre-Occidentale
+8930,Lauwe,3.19389788,50.78879,Flandre-Occidentale
+8930,Menen,3.1156565,50.79699,Flandre-Occidentale
+8930,Rekkem,3.165883583,50.77438,Flandre-Occidentale
+8940,Geluwe,3.06890092,50.82694,Flandre-Occidentale
+8940,Wervik,3.042988233,50.79981,Flandre-Occidentale
+8950,Heuvelland,2.845745911,50.76765,Flandre-Occidentale
+8950,Nieuwkerke,2.8251932,50.74574,Flandre-Occidentale
+8951,Dranouter,2.7832991,50.76628,Flandre-Occidentale
+8952,Wulvergem,2.840869239,50.7675,Flandre-Occidentale
+8953,Wijtschate,2.912619288,50.78327,Flandre-Occidentale
+8954,Westouter,2.740961051,50.80034,Flandre-Occidentale
+8956,Kemmel,2.838367529,50.79521,Flandre-Occidentale
+8957,Messines,2.900121423,50.75965,Flandre-Occidentale
+8958,Loker,2.779730973,50.78373,Flandre-Occidentale
+8970,Poperinge,2.722259264,50.84362,Flandre-Occidentale
+8970,Reningelst,2.7636029,50.81705,Flandre-Occidentale
+8972,Krombeke,2.672906377,50.90458,Flandre-Occidentale
+8972,Proven,2.6542871,50.89034,Flandre-Occidentale
+8972,Roesbrugge-Haringe,2.6262588,50.91505,Flandre-Occidentale
+8978,Watou,2.644911715,50.84519,Flandre-Occidentale
+8980,Beselare,3.029349428,50.85049,Flandre-Occidentale
+8980,Geluveld,2.996256806,50.83406,Flandre-Occidentale
+8980,Passendale,3.00544283,50.89915,Flandre-Occidentale
+8980,Zandvoorde,2.977001543,50.81512,Flandre-Occidentale
+8980,Zonnebeke,2.9874678,50.87319,Flandre-Occidentale
+9000,Gent,3.7141549,51.03971,Flandre-Orientale
+9030,Mariakerke,3.67812103,51.07312,Flandre-Orientale
+9031,Drongen,3.639516804,51.05289,Flandre-Orientale
+9032,Wondelgem,3.703461275,51.0935,Flandre-Orientale
+9040,Sint-Amandsberg,3.7488657,51.06188,Flandre-Orientale
+9041,Oostakker,3.7644128,51.1002,Flandre-Orientale
+9042,Desteldonk,3.7836111,51.12218,Flandre-Orientale
+9042,Mendonk,3.8221384,51.14673,Flandre-Orientale
+9042,Sint-Kruis-Winkel,3.8234371,51.15419,Flandre-Orientale
+9050,Gentbrugge,3.7588813,51.04472,Flandre-Orientale
+9050,Ledeberg,3.7414088,51.03721,Flandre-Orientale
+9051,Afsnee,3.657541586,51.03,Flandre-Orientale
+9051,Sint-Denijs-Westrem,3.6676767,51.01994,Flandre-Orientale
+9052,Zwijnaarde,3.702179093,51.00092,Flandre-Orientale
+9060,Zelzate,3.8105002,51.2,Flandre-Orientale
+9070,Destelbergen,3.7978887,51.05562,Flandre-Orientale
+9070,Heusden,3.8003347,51.02873,Flandre-Orientale
+9080,Beervelde,3.8792625,51.08021,Flandre-Orientale
+9080,Lochristi,3.8271355,51.09916,Flandre-Orientale
+9080,Zaffelare,3.8601634,51.13237,Flandre-Orientale
+9080,Zeveneken,3.9000296,51.10788,Flandre-Orientale
+9090,Gontrode,3.7976423,50.98425,Flandre-Orientale
+9090,Melle,3.7988833,51.00303,Flandre-Orientale
+9100,Nieuwkerken-Waas,4.1780279,51.19339,Flandre-Orientale
+9100,Sint-Niklaas,4.149464321,51.16381,Flandre-Orientale
+9111,Belsele,4.091775019,51.15702,Flandre-Orientale
+9112,Sinaai-Waas,3.9795579,51.1867,Flandre-Orientale
+9120,Haasdonk,4.2383861,51.18065,Flandre-Orientale
+9120,Kallo,4.258800864,51.26521,Flandre-Orientale
+9120,Melsele,4.2821446,51.22114,Flandre-Orientale
+9120,Vrasene,4.194377,51.21913,Flandre-Orientale
+9130,Doel,4.245637447,51.31815,Flandre-Orientale
+9130,Kallo,4.27803,51.25195,Flandre-Orientale
+9130,Kieldrecht,4.198338666,51.30388,Flandre-Orientale
+9130,Verrebroek,4.18718397,51.25407,Flandre-Orientale
+9140,Elversele,4.145756884,51.12017,Flandre-Orientale
+9140,Steendorp,4.264656736,51.13109,Flandre-Orientale
+9140,Temse,4.213350528,51.14214,Flandre-Orientale
+9140,Tielrode,4.173680997,51.12203,Flandre-Orientale
+9150,Bazel,4.287384251,51.14686,Flandre-Orientale
+9150,Kruibeke,4.3091107,51.17123,Flandre-Orientale
+9150,Rupelmonde,4.2906315,51.12837,Flandre-Orientale
+9160,Daknam,3.980854786,51.12799,Flandre-Orientale
+9160,Eksaarde,3.965212,51.14876,Flandre-Orientale
+9160,Lokeren,3.9911114,51.10422,Flandre-Orientale
+9170,De Klinge,4.0898144,51.25645,Flandre-Orientale
+9170,Meerdonk,4.1511549,51.25889,Flandre-Orientale
+9170,Sint-Gillis-Waas,4.1233014,51.21807,Flandre-Orientale
+9170,Sint-Pauwels,4.10166288,51.19393,Flandre-Orientale
+9180,Moerbeke-Waas,3.9446436,51.17427,Flandre-Orientale
+9185,Wachtebeke,3.8574284,51.17019,Flandre-Orientale
+9190,Kemzeke,4.0771037,51.20652,Flandre-Orientale
+9190,Stekene,4.024041253,51.21047,Flandre-Orientale
+9200,Appels,4.056227545,51.02984,Flandre-Orientale
+9200,Baasrode,4.144401671,51.03987,Flandre-Orientale
+9200,Dendermonde,4.098112,51.03123,Flandre-Orientale
+9200,Grembergen,4.102543564,51.05335,Flandre-Orientale
+9200,Mespelare,4.065261766,50.99557,Flandre-Orientale
+9200,Oudegem,4.051367437,51.00818,Flandre-Orientale
+9200,Schoonaarde,4.015890618,50.99869,Flandre-Orientale
+9200,Sint-Gillis-Dendermonde,4.127662206,51.0226,Flandre-Orientale
+9220,Hamme,4.120280781,51.08816,Flandre-Orientale
+9220,Moerzeke,4.158595639,51.06183,Flandre-Orientale
+9230,Massemen,3.8735741,50.98093,Flandre-Orientale
+9230,Westrem,3.8614248,50.96979,Flandre-Orientale
+9230,Wetteren,3.8855494,51.00688,Flandre-Orientale
+9240,Zele,4.0385864,51.06836,Flandre-Orientale
+9250,Waasmunster,4.0842158,51.10971,Flandre-Orientale
+9255,Buggenhout,4.192804319,51.01131,Flandre-Orientale
+9255,Opdorp,4.221378173,51.02861,Flandre-Orientale
+9260,Schellebelle,3.928141226,51.01025,Flandre-Orientale
+9260,Serskamp,3.930956781,50.98997,Flandre-Orientale
+9260,Wichelen,3.98064381,51.00208,Flandre-Orientale
+9270,Kalken,3.918568,51.03701,Flandre-Orientale
+9270,Laarne,3.8504738,51.02966,Flandre-Orientale
+9280,Denderbelle,4.095443287,51.00114,Flandre-Orientale
+9280,Lebbeke,4.1307711,51.0004,Flandre-Orientale
+9280,Wieze,4.098181016,50.97863,Flandre-Orientale
+9290,Berlare,4.01134703,51.03016,Flandre-Orientale
+9290,Overmere,3.956912164,51.05073,Flandre-Orientale
+9290,Uitbergen,3.9639785,51.02784,Flandre-Orientale
+9300,Aalst,4.03964242,50.94298,Flandre-Orientale
+9308,Gijzegem,4.041368472,50.9832,Flandre-Orientale
+9308,Hofstade,4.029856315,50.96682,Flandre-Orientale
+9310,Baardegem,4.140006408,50.95598,Flandre-Orientale
+9310,Herdersem,4.068716535,50.97349,Flandre-Orientale
+9310,Meldert,4.133938021,50.93483,Flandre-Orientale
+9310,Moorsel,4.10087467,50.95235,Flandre-Orientale
+9320,Erembodegem,4.057361005,50.9161,Flandre-Orientale
+9320,Nieuwerkerken,4.00609751,50.92226,Flandre-Orientale
+9340,Impe,3.9521618,50.96054,Flandre-Orientale
+9340,Lede,3.9775435,50.96608,Flandre-Orientale
+9340,Oordegem,3.90209,50.9574,Flandre-Orientale
+9340,Smetlede,3.9269566,50.96607,Flandre-Orientale
+9340,Wanzele,3.9570133,50.97416,Flandre-Orientale
+9400,Appelterre-Eichem,3.967326612,50.81911,Flandre-Orientale
+9400,Denderwindeke,4.0241352,50.79862,Flandre-Orientale
+9400,Lieferinge,4.0533344,50.79185,Flandre-Orientale
+9400,Nederhasselt,3.9750229,50.84636,Flandre-Orientale
+9400,Ninove,4.0242373,50.83536,Flandre-Orientale
+9400,Okegem,4.0561164,50.85639,Flandre-Orientale
+9400,Voorde,3.9454543,50.82548,Flandre-Orientale
+9401,Pollare,3.9969451,50.81686,Flandre-Orientale
+9402,Meerbeke,4.045850172,50.81973,Flandre-Orientale
+9403,Neigem,4.0606636,50.80301,Flandre-Orientale
+9404,Aspelare,3.9584406,50.84216,Flandre-Orientale
+9406,Outer,3.997655892,50.84659,Flandre-Orientale
+9420,Aaigem,3.9366909,50.88942,Flandre-Orientale
+9420,Bambrugge,3.4154479,51.05456,Flandre-Orientale
+9420,Burst,3.9203695,50.91365,Flandre-Orientale
+9420,Erondegem,3.9555369,50.94072,Flandre-Orientale
+9420,Erpe,3.976602,50.93335,Flandre-Orientale
+9420,Erpe-Mere,3.9459888,50.92264,Flandre-Orientale
+9420,Mere,3.9710267,50.92301,Flandre-Orientale
+9420,Ottergem,3.9468882,50.93415,Flandre-Orientale
+9450,Denderhoutem,4.00593386,50.87806,Flandre-Orientale
+9450,Haaltert,4.0057717,50.90225,Flandre-Orientale
+9450,Heldergem,3.9548012,50.88167,Flandre-Orientale
+9451,Kerksken,3.979234667,50.88457,Flandre-Orientale
+9470,Denderleeuw,4.066546833,50.88439,Flandre-Orientale
+9472,Iddergem,4.044050921,50.87468,Flandre-Orientale
+9473,Welle,4.0448599,50.90054,Flandre-Orientale
+9500,Geraardsbergen,3.879789,50.7689,Flandre-Orientale
+9500,Goeferdinge,3.8392513,50.7654,Flandre-Orientale
+9500,Moerbeke,3.9446436,51.17427,Flandre-Orientale
+9500,Nederboelare,3.871822623,50.78114,Flandre-Orientale
+9500,Onkerzele,3.904029468,50.77877,Flandre-Orientale
+9500,Ophasselt,3.897035,50.82186,Flandre-Orientale
+9500,Overboelare,3.8625157,50.76229,Flandre-Orientale
+9500,Viane,3.923884699,50.73866,Flandre-Orientale
+9500,Zarlardinge,3.825271498,50.76432,Flandre-Orientale
+9506,Grimminge,3.9525416,50.79453,Flandre-Orientale
+9506,Idegem,3.929530802,50.80432,Flandre-Orientale
+9506,Nieuwenhove,3.9891935,50.78751,Flandre-Orientale
+9506,Schendelbeke,3.8989486,50.79687,Flandre-Orientale
+9506,Smeerebbe-Vloerzegem,3.925921043,50.81625,Flandre-Orientale
+9506,Waarbeke,3.968228,50.77793,Flandre-Orientale
+9506,Zandbergen,3.9673318,50.80133,Flandre-Orientale
+9520,Bavegem,3.86801046,50.94497,Flandre-Orientale
+9520,Oombergen,3.8381185,50.89884,Flandre-Orientale
+9520,Sint-Lievens-Houtem,3.852132137,50.91973,Flandre-Orientale
+9520,Vlierzele,3.900936032,50.93509,Flandre-Orientale
+9520,Zonnegem,3.916301137,50.93017,Flandre-Orientale
+9521,Letterhoutem,3.8812597,50.92696,Flandre-Orientale
+9550,Herzele,3.887395383,50.8883,Flandre-Orientale
+9550,Hillegem,3.853568,50.89581,Flandre-Orientale
+9550,Sint-Antelinks,3.9249438,50.84951,Flandre-Orientale
+9550,Sint-Lievens-Esse,3.8871129,50.85531,Flandre-Orientale
+9550,Steenhuize-Wijnhuize,3.8903745,50.84111,Flandre-Orientale
+9550,Woubrechtegem,3.9158325,50.87268,Flandre-Orientale
+9551,Ressegem,3.9109808,50.89208,Flandre-Orientale
+9552,Borsbeke,3.8945771,50.90472,Flandre-Orientale
+9570,Deftinge,3.8409061,50.78636,Flandre-Orientale
+9570,Lierde,3.8249605,50.81505,Flandre-Orientale
+9570,Sint-Maria-Lierde,3.837029958,50.82174,Flandre-Orientale
+9571,Hemelveerdegem,3.863878351,50.80884,Flandre-Orientale
+9572,Sint-Martens-Lierde,3.815784644,50.80452,Flandre-Orientale
+9600,Renaix,3.6020465,50.74762,Flandre-Orientale
+9620,Elene,3.8078492,50.89079,Flandre-Orientale
+9620,Erwetegem,3.8142328,50.85583,Flandre-Orientale
+9620,Godveerdegem,3.8204374,50.85941,Flandre-Orientale
+9620,Grotenberge,3.8333978,50.87231,Flandre-Orientale
+9620,Leeuwergem,3.829278,50.88806,Flandre-Orientale
+9620,Oombergen,3.8381185,50.89884,Flandre-Orientale
+9620,Sint-Goriks-Oudenhove,3.7863829,50.85226,Flandre-Orientale
+9620,Sint-Maria-Oudenhove,3.799856835,50.82513,Flandre-Orientale
+9620,Strijpen,3.7893247,50.86904,Flandre-Orientale
+9620,Velzeke-Ruddershove,3.7825766,50.88248,Flandre-Orientale
+9620,Zottegem,3.815546018,50.86909,Flandre-Orientale
+9630,Beerlegem,3.719796314,50.90268,Flandre-Orientale
+9630,Dikkele,3.7418503,50.90346,Flandre-Orientale
+9630,Hundelgem,3.7552865,50.88915,Flandre-Orientale
+9630,Meilegem,3.6992879,50.90519,Flandre-Orientale
+9630,Munkzwalm,3.7327378,50.87768,Flandre-Orientale
+9630,Paulatem,3.7148522,50.89638,Flandre-Orientale
+9630,Roborst,3.7535689,50.86362,Flandre-Orientale
+9630,Rozebeke,3.7533417,50.8489,Flandre-Orientale
+9630,Sint-Blasius-Boekel,3.7206404,50.85157,Flandre-Orientale
+9630,Sint-Denijs-Boekel,3.7130873,50.86609,Flandre-Orientale
+9630,Sint-Maria-Latem,3.7059521,50.89022,Flandre-Orientale
+9630,Zwalm,3.719334,50.87933,Flandre-Orientale
+9636,Nederzwalm-Hermelgem,3.68798941,50.88676,Flandre-Orientale
+9660,Brakel,3.762778,50.79797,Flandre-Orientale
+9660,Elst,5.5556351,50.76857,Flandre-Orientale
+9660,Everbeek,3.785996795,50.76859,Flandre-Orientale
+9660,Michelbeke,3.7638335,50.83413,Flandre-Orientale
+9660,Nederbrakel,3.761776744,50.80522,Flandre-Orientale
+9660,Opbrakel,3.7463234,50.79216,Flandre-Orientale
+9660,Sint-Maria-Oudenhove,3.799856835,50.82513,Flandre-Orientale
+9660,Zegelsem,3.717079991,50.81358,Flandre-Orientale
+9661,Parike,3.799316,50.78492,Flandre-Orientale
+9667,Horebeke,3.6920346,50.83486,Flandre-Orientale
+9667,Sint-Kornelis-Horebeke,3.6991826,50.83563,Flandre-Orientale
+9667,Sint-Maria-Horebeke,3.6875097,50.83834,Flandre-Orientale
+9680,Etikhove,3.625998,50.81292,Flandre-Orientale
+9680,Maarke-Kerkem,3.6489314,50.80722,Flandre-Orientale
+9680,Maarkedal,3.642779,50.79731,Flandre-Orientale
+9681,Nukerke,3.5954667,50.79656,Flandre-Orientale
+9688,Schorisse,3.6782376,50.80618,Flandre-Orientale
+9690,Berchem,3.5082669,50.79039,Flandre-Orientale
+9690,Kluisbergen,3.5212498,50.7783,Flandre-Orientale
+9690,Kwaremont,3.5230939,50.77509,Flandre-Orientale
+9690,Ruien,3.4860074,50.77397,Flandre-Orientale
+9690,Zulzeke,3.569982,50.79121,Flandre-Orientale
+9700,Bevere,3.5955691,50.85136,Flandre-Orientale
+9700,Edelare,3.6281646,50.83169,Flandre-Orientale
+9700,Eine,3.6226347,50.86954,Flandre-Orientale
+9700,Ename,3.6317612,50.85531,Flandre-Orientale
+9700,Heurne,3.6405818,50.88788,Flandre-Orientale
+9700,Leupegem,3.6086057,50.83362,Flandre-Orientale
+9700,Mater,3.6636488,50.8429,Flandre-Orientale
+9700,Melden,3.5655354,50.81555,Flandre-Orientale
+9700,Mullem,3.6039655,50.89642,Flandre-Orientale
+9700,Nederename,3.6322868,50.86784,Flandre-Orientale
+9700,Ooike,3.5514004,50.87118,Flandre-Orientale
+9700,Oudenaarde,3.604782,50.84426,Flandre-Orientale
+9700,Volkegem,3.6356493,50.84087,Flandre-Orientale
+9700,Welden,3.6536587,50.8791,Flandre-Orientale
+9750,Huise,3.5907777,50.89882,Flandre-Orientale
+9750,Ouwegem,3.5978246,50.91212,Flandre-Orientale
+9750,Zingem,3.653793,50.90393,Flandre-Orientale
+9770,Kruishoutem,3.540446277,50.92009,Flandre-Orientale
+9771,Nokere,3.5108474,50.88536,Flandre-Orientale
+9772,Wannegem-Lede,3.560579417,50.89024,Flandre-Orientale
+9790,Elsegem,3.5366137,50.82472,Flandre-Orientale
+9790,Moregem,3.5623575,50.85035,Flandre-Orientale
+9790,Ooike,3.5514004,50.87118,Flandre-Orientale
+9790,Petegem-Aan-De-Schelde,3.5581136,50.83309,Flandre-Orientale
+9790,Wortegem,3.5101135,50.85338,Flandre-Orientale
+9790,Wortegem-Petegem,3.532983112,50.84599,Flandre-Orientale
+9800,Astene,3.5628186,50.98455,Flandre-Orientale
+9800,Bachte-Maria-Leerne,3.5624453,51.00382,Flandre-Orientale
+9800,Deinze,3.5274017,50.98405,Flandre-Orientale
+9800,Gottem,3.4640122,50.96469,Flandre-Orientale
+9800,Grammene,3.468333,50.97644,Flandre-Orientale
+9800,Meigem,3.5413767,51.01753,Flandre-Orientale
+9800,Petegem-Aan-De-Leie,3.5324987,50.96908,Flandre-Orientale
+9800,Sint-Martens-Leerne,3.5837978,51.01349,Flandre-Orientale
+9800,Vinkt,3.4808321,51.00787,Flandre-Orientale
+9800,Wontergem,3.4443004,50.97868,Flandre-Orientale
+9800,Zeveren,3.5031988,50.99675,Flandre-Orientale
+9810,Eke,3.6418029,50.95694,Flandre-Orientale
+9810,Nazareth,3.5963218,50.9598,Flandre-Orientale
+9820,Bottelare,3.7552702,50.96352,Flandre-Orientale
+9820,Lemberge,3.7726469,50.97799,Flandre-Orientale
+9820,Melsen,3.6928827,50.95793,Flandre-Orientale
+9820,Merelbeke,3.7459119,50.99429,Flandre-Orientale
+9820,Munte,3.7445458,50.94525,Flandre-Orientale
+9820,Schelderode,3.7131906,50.96988,Flandre-Orientale
+9830,Sint-Martens-Latem,3.630629124,51.01345,Flandre-Orientale
+9831,Deurle,3.611165872,51.00009,Flandre-Orientale
+9840,De Pinte,3.6495958,50.99242,Flandre-Orientale
+9840,Zevergem,3.6943144,50.97866,Flandre-Orientale
+9850,Hansbeke,3.5345703,51.07478,Flandre-Orientale
+9850,Landegem,3.588809144,51.05464,Flandre-Orientale
+9850,Merendree,3.571523699,51.08293,Flandre-Orientale
+9850,Nevele,3.5491068,51.03304,Flandre-Orientale
+9850,Poesele,3.511730482,51.03239,Flandre-Orientale
+9850,Vosselare,3.566127634,51.0289,Flandre-Orientale
+9860,Balegem,3.7896135,50.9252,Flandre-Orientale
+9860,Gijzenzele,3.8164475,50.97106,Flandre-Orientale
+9860,Landskouter,3.7928259,50.96949,Flandre-Orientale
+9860,Moortsele,3.7800022,50.95911,Flandre-Orientale
+9860,Oosterzele,3.8032713,50.94564,Flandre-Orientale
+9860,Scheldewindeke,3.78971,50.93926,Flandre-Orientale
+9870,Machelen,3.4858873,50.95919,Flandre-Orientale
+9870,Olsene,3.4651619,50.9358,Flandre-Orientale
+9870,Zulte,3.4485632,50.92066,Flandre-Orientale
+9880,Aalter,3.417680328,51.0882,Flandre-Orientale
+9880,Lotenhulle,3.4596784,51.0497,Flandre-Orientale
+9880,Poeke,3.4455642,51.04147,Flandre-Orientale
+9881,Bellem,3.499452566,51.09028,Flandre-Orientale
+9890,Baaigem,3.721942,50.93095,Flandre-Orientale
+9890,Dikkelvenne,3.6894495,50.91767,Flandre-Orientale
+9890,Gavere,3.6614192,50.92923,Flandre-Orientale
+9890,Vurste,3.6845236,50.94592,Flandre-Orientale
+9900,Eeklo,3.5665965,51.18448,Flandre-Orientale
+9910,Knesselare,3.412339,51.13927,Flandre-Orientale
+9910,Ursel,3.4841052,51.12859,Flandre-Orientale
+9920,Lovendegem,3.6076129,51.09568,Flandre-Orientale
+9921,Vinderhoute,3.6412401,51.08764,Flandre-Orientale
+9930,Zomergem,3.564243679,51.11958,Flandre-Orientale
+9931,Oostwinkel,3.5253176,51.15087,Flandre-Orientale
+9932,Ronsele,3.5532444,51.13038,Flandre-Orientale
+9940,Ertvelde,3.7471789,51.17935,Flandre-Orientale
+9940,Evergem,3.7078565,51.10879,Flandre-Orientale
+9940,Kluizen,3.732612,51.15471,Flandre-Orientale
+9940,Sleidinge,3.6789045,51.13193,Flandre-Orientale
+9950,Waarschoot,3.6061712,51.15153,Flandre-Orientale
+9960,Assenede,3.756807666,51.23004,Flandre-Orientale
+9961,Boekhoute,3.705961499,51.25093,Flandre-Orientale
+9968,Bassevelde,3.6789952,51.23119,Flandre-Orientale
+9968,Oosteeklo,3.687828,51.19299,Flandre-Orientale
+9970,Kaprijke,3.621925137,51.22895,Flandre-Orientale
+9971,Lembeke,3.634631213,51.19424,Flandre-Orientale
+9980,Sint-Laureins,3.537482068,51.23305,Flandre-Orientale
+9981,Sint-Margriete,3.531500557,51.26767,Flandre-Orientale
+9982,Sint-Jan-In-Eremo,3.580094,51.26822,Flandre-Orientale
+9988,Waterland-Oudeman,3.5905485,51.28912,Flandre-Orientale
+9988,Watervliet,3.626982177,51.27765,Flandre-Orientale
+9990,Maldegem,3.4154538,51.22631,Flandre-Orientale
+9991,Adegem,3.4858471,51.20353,Flandre-Orientale
+9992,Middelburg,3.407142556,51.25583,Flandre-Orientale
